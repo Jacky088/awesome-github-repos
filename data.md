@@ -218,6 +218,8 @@
 
 *   [WJQSERVER-STUDIO/ghproxy](https://github.com/WJQSERVER-STUDIO/ghproxy) - 基于Go的高性能,多功能,可扩展的Github代理加速项目
 
+*   [KusakabeShi/EtherGuard-VPN](https://github.com/KusakabeShi/EtherGuard-VPN) - Layer2 version of wireguard with Floyd Warshall implement in go.
+
 ## JavaScript
 
 *   [dhjz/hanzi-study](https://github.com/dhjz/hanzi-study) - 儿童学习汉字, 学前教育, 小朋友学习汉字拼音, 通过小游戏闯关的方式学习汉字, 听音识字, 笔画书写, 学习数学加减法, 十以内或者百以内加减法,学习小学古诗词, 古诗词朗读
@@ -587,8 +589,6 @@
 *   [ALIT8569/MuYuLiveTV](https://github.com/ALIT8569/MuYuLiveTV) - 栖光电视直播TV
 
 *   [ngo5/IPTV](https://github.com/ngo5/IPTV) - IPV4/IPV6 TVBOX 电视直播点播源收集
-
-*   [YuHuanTin/IDM\_Cracker](https://github.com/YuHuanTin/IDM_Cracker) -
 
 *   [bigtree945/Official\_VPS](https://github.com/bigtree945/Official_VPS) - 官方的VPS TG 群组和频道
 
