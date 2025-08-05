@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [HTML](#html)
 *   [TypeScript](#typescript)
+*   [HTML](#html)
 *   [Go](#go)
 *   [JavaScript](#javascript)
 *   [Python](#python)
@@ -30,51 +30,9 @@
 *   [Ruby](#ruby)
 *   [JSON](#json)
 
-## HTML
-
-*   [anhao/TgMessage](https://github.com/anhao/TgMessage) - TG 消息推送机器人, 支持 EdgeOne，Vercel 部署
-
-*   [dengxiwang/gotab-personal](https://github.com/dengxiwang/gotab-personal) - GoTab 新标签页是一款免费、简约、美观大气，超高自定义程度的导航/起始页，满足您的各项要求！支持docker一键部署！轻松打造个性化浏览器主页/起始页！适用于私有化部署专属企业内部或者个人的个性导航页/导航网站/主页/欢迎页/NAS导航页！
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
-*   [kfcx/HFSpaceDeploy](https://github.com/kfcx/HFSpaceDeploy) - 将你的项目一键部署到huggingface spaces
-
-*   [vbskycn/FlowMaster](https://github.com/vbskycn/FlowMaster) - FlowMaster流量监控系统
-
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，1分钟部署完毕， 支持 docker 部署。⭐ 让算法为你服务，而非被算法绑架
-
-*   [zhheo/HeoWeb](https://github.com/zhheo/HeoWeb) - 纯静态多业务展示的个人主页主题
-
-*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
-
-*   [zhtyyx/ioe](https://github.com/zhtyyx/ioe) - One-Stop Retail Inventory Solution
-
-*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
-
-*   [iWangJiaxiang/Homepage-Creators](https://github.com/iWangJiaxiang/Homepage-Creators) - Homepage Creators 是一款适用于 Zola 的个人主页主题，风格接近 Apple，美观大气。
-
-*   [ohotto/nzcfg](https://github.com/ohotto/nzcfg) - 哪吒监控公开备注和流量监控配置代码生成器
-
-*   [DEKVIW/book-nav](https://github.com/DEKVIW/book-nav) - 个人书签导航
-
-*   [ecouus/E-Nav](https://github.com/ecouus/E-Nav) -
-
-*   [woniu336/vps-date](https://github.com/woniu336/vps-date) - MJJ订阅追踪
-
-*   [Lerist/FakeLocation](https://github.com/Lerist/FakeLocation) - Fake Location
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
-
-*   [yuzaimala/URL-detection-jump](https://github.com/yuzaimala/URL-detection-jump) - URL-detection-jump
-
-*   [missuo/discord-image](https://github.com/missuo/discord-image) - Powerful Discord image hosting, file sharing
-
-*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
-
 ## TypeScript
+
+*   [HelTi/daily-hot-api](https://github.com/HelTi/daily-hot-api) - 🔥 一个基于 NestJS 的每日热榜聚合 API 服务，支持多个平台的热榜数据获取，支持本地部署，pm2部署、docker部署。
 
 *   [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) - An MCP service designed for deploying HTML content to EdgeOne Pages and obtaining an accessible public URL.
 
@@ -122,7 +80,7 @@
 
 *   [NodePassProject/NodePassDash](https://github.com/NodePassProject/NodePassDash) - 一个现代化的NodePass管理界面
 
-*   [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站。交流群：https://t.me/+K8GaaVx-xrc0YmVk
+*   [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站
 
 *   [beilunyang/moepush](https://github.com/beilunyang/moepush) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨
 
@@ -182,11 +140,57 @@
 
 *   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 
+## HTML
+
+*   [xyTom/cap-worker](https://github.com/xyTom/cap-worker) - Cap backend server build on Cloudflare worker, modern open-source CAPTCHA alternative using SHA-256 proof-of-work.
+
+*   [anhao/TgMessage](https://github.com/anhao/TgMessage) - TG 消息推送机器人, 支持 EdgeOne，Vercel 部署
+
+*   [dengxiwang/gotab-personal](https://github.com/dengxiwang/gotab-personal) - GoTab 新标签页是一款免费、简约、美观大气，超高自定义程度的导航/起始页，满足您的各项要求！支持docker一键部署！轻松打造个性化浏览器主页/起始页！适用于私有化部署专属企业内部或者个人的个性导航页/导航网站/主页/欢迎页/NAS导航页！
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+*   [kfcx/HFSpaceDeploy](https://github.com/kfcx/HFSpaceDeploy) - 将你的项目一键部署到huggingface spaces
+
+*   [vbskycn/FlowMaster](https://github.com/vbskycn/FlowMaster) - FlowMaster流量监控系统
+
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，1分钟部署完毕， 支持 docker 部署。⭐ 让算法为你服务，而非被算法绑架
+
+*   [zhheo/HeoWeb](https://github.com/zhheo/HeoWeb) - 纯静态多业务展示的个人主页主题
+
+*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
+
+*   [zhtyyx/ioe](https://github.com/zhtyyx/ioe) - One-Stop Retail Inventory Solution
+
+*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
+
+*   [iWangJiaxiang/Homepage-Creators](https://github.com/iWangJiaxiang/Homepage-Creators) - Homepage Creators 是一款适用于 Zola 的个人主页主题，风格接近 Apple，美观大气。
+
+*   [ohotto/nzcfg](https://github.com/ohotto/nzcfg) - 哪吒监控公开备注和流量监控配置代码生成器
+
+*   [DEKVIW/book-nav](https://github.com/DEKVIW/book-nav) - 个人书签导航
+
+*   [ecouus/E-Nav](https://github.com/ecouus/E-Nav) -
+
+*   [woniu336/vps-date](https://github.com/woniu336/vps-date) - MJJ订阅追踪
+
+*   [Lerist/FakeLocation](https://github.com/Lerist/FakeLocation) - Fake Location
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
+
+*   [yuzaimala/URL-detection-jump](https://github.com/yuzaimala/URL-detection-jump) - URL-detection-jump
+
+*   [missuo/discord-image](https://github.com/missuo/discord-image) - Powerful Discord image hosting, file sharing
+
+*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
+
 ## Go
 
 *   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos
 
-*   [fish2018/pansou](https://github.com/fish2018/pansou) - PanSou（GoComicMosaic的独立子项目）是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。https://so.252035.xyz/
+*   [fish2018/pansou](https://github.com/fish2018/pansou) - PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/
 
 *   [XTLS/REALITY](https://github.com/XTLS/REALITY) - THE NEXT FUTURE
 
@@ -218,8 +222,6 @@
 
 *   [WJQSERVER-STUDIO/ghproxy](https://github.com/WJQSERVER-STUDIO/ghproxy) - 基于Go的高性能,多功能,可扩展的Github代理加速项目
 
-*   [KusakabeShi/EtherGuard-VPN](https://github.com/KusakabeShi/EtherGuard-VPN) - Layer2 version of wireguard with Floyd Warshall implement in go.
-
 ## JavaScript
 
 *   [dhjz/hanzi-study](https://github.com/dhjz/hanzi-study) - 儿童学习汉字, 学前教育, 小朋友学习汉字拼音, 通过小游戏闯关的方式学习汉字, 听音识字, 笔画书写, 学习数学加减法, 十以内或者百以内加减法,学习小学古诗词, 古诗词朗读
@@ -246,7 +248,7 @@
 
 *   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
 
-*   [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - AIClient2API：本地代理Gemini CLI和Kiro 客户端，兼容OpenAI API，每日千次免费请求。通过API轻松接入任何客户端，让AI开发更高效！
+*   [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - AIClient2API：模拟Gemini CLI和Kiro 客户端请求，兼容OpenAI API。可每日千次Gemini模型请求， 免费使用Kiro内置Claude模型。通过API轻松接入任何客户端，让AI开发更高效！
 
 *   [ZhjGo/pansou-ui](https://github.com/ZhjGo/pansou-ui) -
 
@@ -420,8 +422,6 @@
 
 *   [ZShijun/WaterDrop](https://github.com/ZShijun/WaterDrop) - 一款适合写技术文章的简约typecho博客主题(blog theme)
 
-*   [Nei-Xin/random-pic-api](https://github.com/Nei-Xin/random-pic-api) - 搭建一个简单的随机图片API，支持Docker部署
-
 ## Vue
 
 *   [catcat-blog/NetMirror](https://github.com/catcat-blog/NetMirror) - Another Looking-glass Server
@@ -590,6 +590,8 @@
 
 *   [ngo5/IPTV](https://github.com/ngo5/IPTV) - IPV4/IPV6 TVBOX 电视直播点播源收集
 
+*   [YuHuanTin/IDM\_Cracker](https://github.com/YuHuanTin/IDM_Cracker) -
+
 *   [bigtree945/Official\_VPS](https://github.com/bigtree945/Official_VPS) - 官方的VPS TG 群组和频道
 
 *   [perfect-panel/ppanel](https://github.com/perfect-panel/ppanel) - Perfect Panel release page.
@@ -625,8 +627,6 @@
 *   [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
 
 *   [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-
-*   [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Jellyfin client for Linux
 
 ## C
 
