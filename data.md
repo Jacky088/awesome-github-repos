@@ -3,8 +3,8 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [Shell](#shell)
 *   [JavaScript](#javascript)
-*   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [Go](#go)
 *   [Python](#python)
@@ -14,7 +14,7 @@
 *   [Java](#java)
 *   [C#](#c)
 *   [Svelte](#svelte)
-*   [Shell](#shell)
+*   [miscellaneous](#miscellaneous)
 *   [Kotlin](#kotlin)
 *   [Astro](#astro)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -31,6 +31,8 @@
 *   [JSON](#json)
 
 ## TypeScript
+
+*   [nextify-limited/libra](https://github.com/nextify-limited/libra) - The open-source V0/Lovable alternative
 
 *   [xuemian168/kuno](https://github.com/xuemian168/kuno) - 一个自带i18n的博客系统 A full-stack blog application with Go backend and Next.js frontend, containerized with Docker for easy deployment.
 
@@ -82,7 +84,7 @@
 
 *   [NodePassProject/NodePassDash](https://github.com/NodePassProject/NodePassDash) - 一个现代化的NodePass管理界面
 
-*   [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站
+*   [LunaTechLab/MoonTV](https://github.com/LunaTechLab/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站
 
 *   [beilunyang/moepush](https://github.com/beilunyang/moepush) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨
 
@@ -140,11 +142,55 @@
 
 *   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 
-*   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
+## Shell
+
+*   [Aniverse/inexistence](https://github.com/Aniverse/inexistence) - I know nothing, you see nothing.
+
+*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
+
+*   [zywe03/realm-xwPF](https://github.com/zywe03/realm-xwPF) - realm全功能一键脚本，如果你正在寻找一个开箱即用、轻量可靠、灵活可控的 Realm 转发管理工具，本项目将是理想选择
+
+*   [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+
+*   [gebu8f8/site\_sh](https://github.com/gebu8f8/site_sh) -
+
+*   [BlackSheep-cry/TCP-Optimization-Tool](https://github.com/BlackSheep-cry/TCP-Optimization-Tool) - 一个较为灵活的TCP调优工具，依据iperf3测试结果进行调优
+
+*   [ypq123456789/openlist-manger](https://github.com/ypq123456789/openlist-manger) - 此脚本通过一个清晰的交互式菜单，提供了对 OpenList 的全方位管理功能，从首次安装到后期的服务监控、数据迁移和密码管理，一切尽在掌握。无需记忆复杂的命令，只需运行脚本并根据菜单提示进行选择即可。
+
+*   [trojanpanel/install-script](https://github.com/trojanpanel/install-script) - Trojan Panel installation script / Trojan Panel 一键安装脚本
+
+*   [Aethersailor/Custom\_OpenClash\_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验，配套自动化域名规则提交机器人
+
+*   [MEILOI/scripts](https://github.com/MEILOI/scripts) -
+
+*   [hostemail/cdn](https://github.com/hostemail/cdn) -
+
+*   [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
+
+*   [LloydAsp/NodeQuality](https://github.com/LloydAsp/NodeQuality) - 在沙箱环境中运行vps测试脚本，并排版测试结果
+
+*   [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
+
+*   [jerry048/Dedicated-Seedbox](https://github.com/jerry048/Dedicated-Seedbox) -
+
+*   [wcwq98/realm](https://github.com/wcwq98/realm) - realm一键转发脚本&可视化的realm转发面板
+
+*   [Jimmyzxk/DNS-Alice-Unlock](https://github.com/Jimmyzxk/DNS-Alice-Unlock) - 流媒体DNS一键分流脚本
+
+*   [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) - serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针|面板 等, 自动化部署、批量保号、进程防杀、消息推送
+
+*   [seagullz4/hysteria2](https://github.com/seagullz4/hysteria2) - hysteria2一键安装精简版/hy2一键安装/hysteria2 install/نصب با یک کلیک hysteria2
+
+*   [fscarmen2/Argo-Nezha-Service-Container](https://github.com/fscarmen2/Argo-Nezha-Service-Container) - Nezha server over Argo tunnel 使用 Argo 隧道的哪吒服务端
+
+*   [ypq123456789/TrafficCop](https://github.com/ypq123456789/TrafficCop) - 监控VPS流量使用，到达限制自动限流/关机，保留SSH端口可用
 
 ## JavaScript
 
 *   [fev125/dstatus](https://github.com/fev125/dstatus) -
+
+*   [vbskycn/subm](https://github.com/vbskycn/subm) - 一个现代化的订阅管理系统，帮助用户轻松管理和追踪各种订阅服务的费用和续费情况。
 
 *   [dhjz/hanzi-study](https://github.com/dhjz/hanzi-study) - 儿童学习汉字, 学前教育, 小朋友学习汉字拼音, 通过小游戏闯关的方式学习汉字, 听音识字, 笔画书写, 学习数学加减法, 十以内或者百以内加减法,学习小学古诗词, 古诗词朗读
 
@@ -259,38 +305,6 @@
 *   [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) -
 
 *   [bpking1/embyExternalUrl](https://github.com/bpking1/embyExternalUrl) - some emby/jellyfin scripts
-
-## miscellaneous
-
-*   [vbskycn/subm](https://github.com/vbskycn/subm) - 一个现代化的订阅管理系统，帮助用户轻松管理和追踪各种订阅服务的费用和续费情况。
-
-*   [TopChina/proxy-list](https://github.com/TopChina/proxy-list) - Free proxy list HTTP, Socks4 and Socks5 open proxy lists
-
-*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-
-*   [ymyuuu/IPDB](https://github.com/ymyuuu/IPDB) - Cloudflare反代优选IP库
-
-*   [CHNJohnHK/Material-You-App-Repository](https://github.com/CHNJohnHK/Material-You-App-Repository) - A simple but intact and frequent-updated Material You App collection project creating with love and persistence.
-
-*   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
-
-*   [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) - 基于天光云影3.3.9，使用Android原生开发的电视直播软件  An Android IPTV player developed by Jetpack Compose
-
-*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-
-*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-
-*   [ALIT8569/MuYuLiveTV](https://github.com/ALIT8569/MuYuLiveTV) - 栖光电视直播TV
-
-*   [ngo5/IPTV](https://github.com/ngo5/IPTV) - IPV4/IPV6 TVBOX 电视直播点播源收集
-
-*   [YuHuanTin/IDM\_Cracker](https://github.com/YuHuanTin/IDM_Cracker) -
-
-*   [bigtree945/Official\_VPS](https://github.com/bigtree945/Official_VPS) - 官方的VPS TG 群组和频道
-
-*   [perfect-panel/ppanel](https://github.com/perfect-panel/ppanel) - Perfect Panel release page.
-
-*   [shenxianmq/Auto\_Symlink](https://github.com/shenxianmq/Auto_Symlink) - 实时监控文件夹，创建与更新软链接/strm文件，自动复制与更新元数据，清空无效文件夹，清空无效软链接
 
 ## HTML
 
@@ -508,8 +522,6 @@
 
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
-*   [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
-
 ## Java
 
 *   [Yohann0617/oci-helper](https://github.com/Yohann0617/oci-helper) - 基于 Oracle OCI SDK 🐢 开发的 web 端可视化甲骨文云助手（Y探长），目前实现的功能有：批量添加多个租户配置、更改实例配置、引导卷配置、一键更新、一键救援/缩小硬盘、附加ipv6、安全列表、实时流量查询（分钟级别）、根据多个 CIDR 网段更换实例公共IP、多租户同时批量抢机、Cloud Shell 控制台、断点续抢、备份恢复、日志实时查看、消息通知、MFA登录验证、更新 Cloudflare DNS 记录、TG 机器人操作等功能。
@@ -560,47 +572,35 @@
 
 *   [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local\* and free forever.
 
-## Shell
+## miscellaneous
 
-*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
+*   [TopChina/proxy-list](https://github.com/TopChina/proxy-list) - Free proxy list HTTP, Socks4 and Socks5 open proxy lists
 
-*   [zywe03/realm-xwPF](https://github.com/zywe03/realm-xwPF) - realm全功能一键脚本，如果你正在寻找一个开箱即用、轻量可靠、灵活可控的 Realm 转发管理工具，本项目将是理想选择
+*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 
-*   [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+*   [ymyuuu/IPDB](https://github.com/ymyuuu/IPDB) - Cloudflare反代优选IP库
 
-*   [gebu8f8/site\_sh](https://github.com/gebu8f8/site_sh) -
+*   [CHNJohnHK/Material-You-App-Repository](https://github.com/CHNJohnHK/Material-You-App-Repository) - A simple but intact and frequent-updated Material You App collection project creating with love and persistence.
 
-*   [BlackSheep-cry/TCP-Optimization-Tool](https://github.com/BlackSheep-cry/TCP-Optimization-Tool) - 一个较为灵活的TCP调优工具，依据iperf3测试结果进行调优
+*   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 
-*   [ypq123456789/openlist-manger](https://github.com/ypq123456789/openlist-manger) - 此脚本通过一个清晰的交互式菜单，提供了对 OpenList 的全方位管理功能，从首次安装到后期的服务监控、数据迁移和密码管理，一切尽在掌握。无需记忆复杂的命令，只需运行脚本并根据菜单提示进行选择即可。
+*   [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) - 基于天光云影3.3.9，使用Android原生开发的电视直播软件  An Android IPTV player developed by Jetpack Compose
 
-*   [trojanpanel/install-script](https://github.com/trojanpanel/install-script) - Trojan Panel installation script / Trojan Panel 一键安装脚本
+*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
-*   [Aethersailor/Custom\_OpenClash\_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验，配套自动化域名规则提交机器人
+*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 
-*   [MEILOI/scripts](https://github.com/MEILOI/scripts) -
+*   [ALIT8569/MuYuLiveTV](https://github.com/ALIT8569/MuYuLiveTV) - 栖光电视直播TV
 
-*   [hostemail/cdn](https://github.com/hostemail/cdn) -
+*   [ngo5/IPTV](https://github.com/ngo5/IPTV) - IPV4/IPV6 TVBOX 电视直播点播源收集
 
-*   [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
+*   [YuHuanTin/IDM\_Cracker](https://github.com/YuHuanTin/IDM_Cracker) -
 
-*   [LloydAsp/NodeQuality](https://github.com/LloydAsp/NodeQuality) - 在沙箱环境中运行vps测试脚本，并排版测试结果
+*   [bigtree945/Official\_VPS](https://github.com/bigtree945/Official_VPS) - 官方的VPS TG 群组和频道
 
-*   [jerry048/Dedicated-Seedbox](https://github.com/jerry048/Dedicated-Seedbox) -
+*   [perfect-panel/ppanel](https://github.com/perfect-panel/ppanel) - Perfect Panel release page.
 
-*   [wcwq98/realm](https://github.com/wcwq98/realm) - realm一键转发脚本&可视化的realm转发面板
-
-*   [Jimmyzxk/DNS-Alice-Unlock](https://github.com/Jimmyzxk/DNS-Alice-Unlock) - 流媒体DNS一键分流脚本
-
-*   [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) - serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针|面板 等, 自动化部署、批量保号、进程防杀、消息推送
-
-*   [seagullz4/hysteria2](https://github.com/seagullz4/hysteria2) - hysteria2一键安装精简版/hy2一键安装/hysteria2 install/نصب با یک کلیک hysteria2
-
-*   [fscarmen2/Argo-Nezha-Service-Container](https://github.com/fscarmen2/Argo-Nezha-Service-Container) - Nezha server over Argo tunnel 使用 Argo 隧道的哪吒服务端
-
-*   [ypq123456789/TrafficCop](https://github.com/ypq123456789/TrafficCop) - 监控VPS流量使用，到达限制自动限流/关机，保留SSH端口可用
-
-*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
+*   [shenxianmq/Auto\_Symlink](https://github.com/shenxianmq/Auto_Symlink) - 实时监控文件夹，创建与更新软链接/strm文件，自动复制与更新元数据，清空无效文件夹，清空无效软链接
 
 ## Kotlin
 
