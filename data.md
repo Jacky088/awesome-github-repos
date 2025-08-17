@@ -3,6 +3,8 @@
 ## Table of Contents
 
 *   [miscellaneous](#miscellaneous)
+*   [C#](#c)
+*   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -13,9 +15,7 @@
 *   [Vue](#vue)
 *   [Dockerfile](#dockerfile)
 *   [Java](#java)
-*   [C#](#c)
 *   [Svelte](#svelte)
-*   [Kotlin](#kotlin)
 *   [Astro](#astro)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Rust](#rust)
@@ -31,6 +31,8 @@
 *   [JSON](#json)
 
 ## miscellaneous
+
+*   [xachary/t\_music\_player](https://github.com/xachary/t_music_player) - 这是一款完全离线的音乐播放器安卓App，适用于追求纯粹听歌体验的朋友们。如果你有自己的音乐文件库，本应用也许适合你。
 
 *   [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) -
 
@@ -59,6 +61,32 @@
 *   [YuHuanTin/IDM\_Cracker](https://github.com/YuHuanTin/IDM_Cracker) -
 
 *   [bigtree945/Official\_VPS](https://github.com/bigtree945/Official_VPS) - 官方的VPS TG 群组和频道
+
+## C\#
+
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+
+*   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
+
+*   [SwaggyMacro/LottieViewConvert](https://github.com/SwaggyMacro/LottieViewConvert) - A powerful cross-platform desktop application for converting TGS (Telegram Stickers), Discord animmated stickers and Lottie animations to various formats including GIF, WebP, APNG, MP4, MKV, AVIF, and WebM. Support download telegram sticker from sticker link. 电报、Discord、Lottie动画转换工具，支持 Gif、WebP、APNG、MP4 等常见格式，支持直接下载电报、Discord贴纸包。
+
+*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
+
+*   [SpaceTimee/Sheas-Cealer-Droid](https://github.com/SpaceTimee/Sheas-Cealer-Droid) - Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
+
+*   [sjtuross/StrmAssistant](https://github.com/sjtuross/StrmAssistant) - Strm Assistant for Emby
+
+*   [cmliu/CFnat-Windows-GUI](https://github.com/cmliu/CFnat-Windows-GUI) - CFnat 为 Windows 用户设计的 GUI 程序界面。
+
+## Kotlin
+
+*   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+
+*   [Frost819/bv](https://github.com/Frost819/bv) - 哔哩哔哩 的第三方 Android TV 应用 BV 的个人修改版
+
+*   [aaa1115910/bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.
+
+*   [Sh-Fang/ProxyDaemon](https://github.com/Sh-Fang/ProxyDaemon) - 一个把 Android 设备变成旁路由的App，内置不良林教程中使用的脚本。为什么会有这个App呢？ 因为每次执行脚本都需要开电脑，我觉得太麻烦了。
 
 ## JavaScript
 
@@ -286,8 +314,6 @@
 
 *   [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
 
-*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
-
 ## Python
 
 *   [leeyeel/Sketch2Motion](https://github.com/leeyeel/Sketch2Motion) - convert photo or sketch to motion video
@@ -304,7 +330,7 @@
 
 *   [cnwikee/CheckTMDB](https://github.com/cnwikee/CheckTMDB) - 每日自动更新TMDB，themoviedb 国内可正常连接IP，解决DNS污染，供tinyMediaManager(TMM削刮器)、kodi削刮等正常削刮影片信息。
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram手机应用推送资讯，无需编程基础，1分钟部署完毕， 支持 docker 部署。⭐ 让算法为你服务，而非被算法绑架
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
 
 *   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 
@@ -341,8 +367,6 @@
 *   [djksps1/telegram-monitor](https://github.com/djksps1/telegram-monitor) - telegram群消息监测与定时发送消息和邮件通知
 
 *   [AhFeil/extract\_forward\_tgbot](https://github.com/AhFeil/extract_forward_tgbot) - 存储转发给它的消息，并能推送到网页，方便查看编辑信息，附带拼接图片、视频转 GIF 功能。 Store the messages forwarded to it, and be able to push them to the web page, for easy viewing and editing of the information.
-
-*   [Misaka-blog/chromego\_merge](https://github.com/Misaka-blog/chromego_merge) - Not only for ChromeGo
 
 ## Go
 
@@ -470,8 +494,6 @@
 
 *   [missuo/discord-image](https://github.com/missuo/discord-image) - Powerful Discord image hosting, file sharing
 
-*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
-
 ## PHP
 
 *   [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
@@ -513,8 +535,6 @@
 *   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
 
 *   [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 开源、自托管、专注思想流动的轻量级发布平台
-
-*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
 *   [imsyy/site-status](https://github.com/imsyy/site-status) - 📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site
 
@@ -584,31 +604,9 @@
 
 *   [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - Make a better survey system.
 
-## C\#
-
-*   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
-
-*   [SwaggyMacro/LottieViewConvert](https://github.com/SwaggyMacro/LottieViewConvert) - A powerful cross-platform desktop application for converting TGS (Telegram Stickers), Discord animmated stickers and Lottie animations to various formats including GIF, WebP, APNG, MP4, MKV, AVIF, and WebM. Support download telegram sticker from sticker link. 电报、Discord、Lottie动画转换工具，支持 Gif、WebP、APNG、MP4 等常见格式，支持直接下载电报、Discord贴纸包。
-
-*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
-
-*   [SpaceTimee/Sheas-Cealer-Droid](https://github.com/SpaceTimee/Sheas-Cealer-Droid) - Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
-
-*   [sjtuross/StrmAssistant](https://github.com/sjtuross/StrmAssistant) - Strm Assistant for Emby
-
-*   [cmliu/CFnat-Windows-GUI](https://github.com/cmliu/CFnat-Windows-GUI) - CFnat 为 Windows 用户设计的 GUI 程序界面。
-
 ## Svelte
 
 *   [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local\* and free forever.
-
-## Kotlin
-
-*   [Frost819/bv](https://github.com/Frost819/bv) - 哔哩哔哩 的第三方 Android TV 应用 BV 的个人修改版
-
-*   [aaa1115910/bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.
-
-*   [Sh-Fang/ProxyDaemon](https://github.com/Sh-Fang/ProxyDaemon) - 一个把 Android 设备变成旁路由的App，内置不良林教程中使用的脚本。为什么会有这个App呢？ 因为每次执行脚本都需要开电脑，我觉得太麻烦了。
 
 ## Astro
 
@@ -621,6 +619,8 @@
 ## Rust
 
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
 *   [zhboner/realm](https://github.com/zhboner/realm) - A network relay tool
 
