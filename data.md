@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [PHP](#php)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [C#](#c)
@@ -11,7 +12,6 @@
 *   [Python](#python)
 *   [Shell](#shell)
 *   [HTML](#html)
-*   [PHP](#php)
 *   [Vue](#vue)
 *   [Dockerfile](#dockerfile)
 *   [Java](#java)
@@ -29,6 +29,34 @@
 *   [Swift](#swift)
 *   [Ruby](#ruby)
 *   [JSON](#json)
+
+## PHP
+
+*   [dmmyblog/dmy-link](https://github.com/dmmyblog/dmy-link) - 大绵羊外链跳转插件是专为 WordPress 站点开发的外部链接管理插件。插件的主要功能是拦截文章中的外部链接，在跳转前提醒用户即将离开本站，提升用户安全意识并优化用户体验。
+
+*   [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
+
+*   [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
+
+*   [Licoy/wordpress-theme-puock](https://github.com/Licoy/wordpress-theme-puock) - :art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh loading, etc.
+
+*   [helloxz/imgurl](https://github.com/helloxz/imgurl) - ImgURL是一个简单、纯粹的图床程序，让个人图床多一个选择。
+
+*   [xiaoyaohanyue/lsky\_plugin\_wp](https://github.com/xiaoyaohanyue/lsky_plugin_wp) - lsky pro在wordpress中的插件，支持全局替换媒体库的图片上传到图床，并且可以一键上传原本媒体库中的图片到图床
+
+*   [chunkburst/ddns-worker](https://github.com/chunkburst/ddns-worker) - 一个简易的DDNS实现~
+
+*   [suqicloud/wp-ai-chat](https://github.com/suqicloud/wp-ai-chat) - WordPress ai助手插件 支持deepseek 豆包 通义千问 openai Kimi 千帆等模型和智能体应用。
+
+*   [netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr) - 彩虹聚合DNS管理系统
+
+*   [RandallAnjie/EmbyController](https://github.com/RandallAnjie/EmbyController) - 一个Emby管理网站
+
+*   [owen0o0/WebStack](https://github.com/owen0o0/WebStack) - WordPress 版 WebStack 导航主题 https://nav.iowen.cn
+
+*   [zjkal/linuxdo-card](https://github.com/zjkal/linuxdo-card) - linux.do名片
+
+*   [ZShijun/WaterDrop](https://github.com/ZShijun/WaterDrop) - 一款适合写技术文章的简约typecho博客主题(blog theme)
 
 ## Go
 
@@ -93,8 +121,6 @@
 *   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
 *   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-
-*   [ALIT8569/MuYuLiveTV](https://github.com/ALIT8569/MuYuLiveTV) - 栖光电视直播TV
 
 *   [ngo5/IPTV](https://github.com/ngo5/IPTV) - IPV4/IPV6 TVBOX 电视直播点播源收集
 
@@ -493,32 +519,6 @@
 *   [yuzaimala/URL-detection-jump](https://github.com/yuzaimala/URL-detection-jump) - URL-detection-jump
 
 *   [missuo/discord-image](https://github.com/missuo/discord-image) - Powerful Discord image hosting, file sharing
-
-## PHP
-
-*   [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
-
-*   [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
-
-*   [Licoy/wordpress-theme-puock](https://github.com/Licoy/wordpress-theme-puock) - :art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh loading, etc.
-
-*   [helloxz/imgurl](https://github.com/helloxz/imgurl) - ImgURL是一个简单、纯粹的图床程序，让个人图床多一个选择。
-
-*   [xiaoyaohanyue/lsky\_plugin\_wp](https://github.com/xiaoyaohanyue/lsky_plugin_wp) - lsky pro在wordpress中的插件，支持全局替换媒体库的图片上传到图床，并且可以一键上传原本媒体库中的图片到图床
-
-*   [chunkburst/ddns-worker](https://github.com/chunkburst/ddns-worker) - 一个简易的DDNS实现~
-
-*   [suqicloud/wp-ai-chat](https://github.com/suqicloud/wp-ai-chat) - WordPress ai助手插件 支持deepseek 豆包 通义千问 openai Kimi 千帆等模型和智能体应用。
-
-*   [netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr) - 彩虹聚合DNS管理系统
-
-*   [RandallAnjie/EmbyController](https://github.com/RandallAnjie/EmbyController) - 一个Emby管理网站
-
-*   [owen0o0/WebStack](https://github.com/owen0o0/WebStack) - WordPress 版 WebStack 导航主题 https://nav.iowen.cn
-
-*   [zjkal/linuxdo-card](https://github.com/zjkal/linuxdo-card) - linux.do名片
-
-*   [ZShijun/WaterDrop](https://github.com/ZShijun/WaterDrop) - 一款适合写技术文章的简约typecho博客主题(blog theme)
 
 ## Vue
 
