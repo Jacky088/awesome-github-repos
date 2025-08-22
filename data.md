@@ -70,7 +70,7 @@
 
 *   [XTLS/REALITY](https://github.com/XTLS/REALITY) - THE NEXT FUTURE
 
-*   [tnborg/panel](https://github.com/tnborg/panel) - 耗子面板 (AcePanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
+*   [tnborg/panel](https://github.com/tnborg/panel) - AcePanel（原耗子面板）是新一代服务器运维管理面板。简单轻量，高效运维。
 
 *   [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
 
@@ -574,7 +574,7 @@
 
 ## Java
 
-*   [Yohann0617/oci-helper](https://github.com/Yohann0617/oci-helper) - 基于 Oracle OCI SDK 🐢 开发的 web 端可视化甲骨文云助手（Y探长），目前实现的功能有：批量添加多个租户配置、更改实例配置、引导卷配置、一键更新、一键救援/缩小硬盘、附加ipv6、安全列表、实时流量查询（分钟级别）、根据多个 CIDR 网段更换实例公共IP、多租户同时批量抢机、Cloud Shell 控制台、断点续抢、备份恢复、日志实时查看、消息通知、MFA登录验证、更新 Cloudflare DNS 记录、TG 机器人操作等功能。
+*   [Yohann0617/oci-helper](https://github.com/Yohann0617/oci-helper) - 基于 Oracle OCI SDK 🐢 开发的 web 端可视化甲骨文云助手（Y探长），目前实现的功能有：批量添加多个租户配置、更改实例配置、引导卷配置、一键开启免费AMD实例500MB、一键更新、一键救援/缩小硬盘、附加ipv6、安全列表、实时流量查询（分钟级别）、根据多个 CIDR 网段更换实例公共IP、多租户同时批量抢机、Cloud Shell 控制台、断点续抢、备份恢复、日志实时查看、消息通知、MFA登录验证、更新 Cloudflare DNS 记录、TG 机器人操作等功能。
 
 *   [Fazil-team/Fazil](https://github.com/Fazil-team/Fazil) - Fazil 是一个轻量级、高效且安全的网盘系统，支持多用户访问，适合个人或小型团队的文件管理需求。
 
