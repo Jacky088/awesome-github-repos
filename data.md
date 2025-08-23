@@ -438,7 +438,7 @@
 
 *   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 
-*   [zywe03/realm-xwPF](https://github.com/zywe03/realm-xwPF) - realm全功能一键脚本，如果你正在寻找一个开箱即用、轻量可靠、灵活可控的 Realm 转发管理工具，本项目将是理想选择
+*   [zywe03/realm-xwPF](https://github.com/zywe03/realm-xwPF) - 如果你正在寻找一个开箱即用、轻量可靠、灵活可控的 realm 网络转发全功能管理工具，本项目将是理想选择
 
 *   [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 
@@ -574,7 +574,7 @@
 
 ## Java
 
-*   [Yohann0617/oci-helper](https://github.com/Yohann0617/oci-helper) - 基于 Oracle OCI SDK 🐢 开发的 web 端可视化甲骨文云助手（Y探长），目前实现的功能有：批量添加多个租户配置、更改实例配置、引导卷配置、一键开启免费AMD实例500MB、一键更新、一键救援/缩小硬盘、附加ipv6、安全列表、实时流量查询（分钟级别）、根据多个 CIDR 网段更换实例公共IP、多租户同时批量抢机、Cloud Shell 控制台、断点续抢、备份恢复、日志实时查看、消息通知、MFA登录验证、更新 Cloudflare DNS 记录、TG 机器人操作等功能。
+*   [Yohann0617/oci-helper](https://github.com/Yohann0617/oci-helper) - 基于 Oracle OCI SDK 🐢 开发的 web 端可视化甲骨文云助手（Y探长），目前实现的功能有：批量添加多个租户配置、更改实例配置、引导卷配置、一键开启免费AMD实例下行500Mbps、一键更新、一键救援/缩小硬盘、附加ipv6、安全列表、实时流量查询（分钟级别）、根据多个 CIDR 网段更换实例公共IP、多租户同时批量抢机、Cloud Shell 控制台、断点续抢、备份恢复、日志实时查看、消息通知、MFA登录验证、更新 Cloudflare DNS 记录、TG 机器人操作等功能。
 
 *   [Fazil-team/Fazil](https://github.com/Fazil-team/Fazil) - Fazil 是一个轻量级、高效且安全的网盘系统，支持多用户访问，适合个人或小型团队的文件管理需求。
 
@@ -620,7 +620,7 @@
 
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
-*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
+*   [Sjj1024/PacBao](https://github.com/Sjj1024/PacBao) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
 *   [zhboner/realm](https://github.com/zhboner/realm) - A network relay tool
 
