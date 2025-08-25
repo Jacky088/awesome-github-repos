@@ -300,7 +300,7 @@
 
 *   [songtianlun/umami-dashboard](https://github.com/songtianlun/umami-dashboard) - A modern Umami analytics dashboard to show last 24 hours.
 
-*   [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) - Foxel 是一款基于 .NET 9 构建的现代化智能图像检索与管理系统，融合了先进的 AI 视觉模型与向量嵌入技术，提供高效、智能的图像搜索与管理体验。
+*   [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) - 一个面向个人和团队的、高度可扩展的私有云盘解决方案，支持 AI 语义搜索。
 
 *   [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) - Web search mcp using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, Github, Juejin and CSDN.
 
