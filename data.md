@@ -302,7 +302,7 @@
 
 *   [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) - 一个面向个人和团队的、高度可扩展的私有云盘解决方案，支持 AI 语义搜索。
 
-*   [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) - Web search mcp using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, Github, Juejin and CSDN.
+*   [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) - WebSearchMCP using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, Github, Juejin and CSDN.
 
 *   [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 
@@ -336,7 +336,7 @@
 
 *   [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 
-*   [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。A powerful Telegram chat search tool with vector search and semantic matching capabilities.
+*   [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  A powerful Telegram chat search tool with vector search and semantic matching capabilities.
 
 *   [xjh22222228/nav](https://github.com/xjh22222228/nav) - 发现导航 , 好用强大轻量级导航网站 Discover navigation, easy to use, powerful lightweight navigation website
 
@@ -438,7 +438,7 @@
 
 *   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 
-*   [zywe03/realm-xwPF](https://github.com/zywe03/realm-xwPF) - 如果你正在寻找一个开箱即用、轻量可靠、灵活可控的 realm 网络转发全功能管理工具，本项目将是理想选择
+*   [zywe03/realm-xwPF](https://github.com/zywe03/realm-xwPF) - 一个开箱即用、轻量可靠、灵活可控的 realm 网络转发全功能管理的可视化脚本
 
 *   [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 
