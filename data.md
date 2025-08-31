@@ -162,7 +162,7 @@
 
 *   [xuemian168/kuno](https://github.com/xuemian168/kuno) - KUNO CMS A full-stack blog application with Go backend and Next.js frontend, containerized with Docker for easy deployment.一个i18n的CMS系统
 
-*   [HelTi/daily-hot-api](https://github.com/HelTi/daily-hot-api) - 🔥 一个基于 NestJS 的每日热榜聚合 API 服务，支持多个平台的热榜数据获取，支持本地部署，pm2部署、docker部署。
+*   [HelTi/daily-hot-api](https://github.com/HelTi/daily-hot-api) - 🔥 一个基于 NestJS 的每日热榜聚合 API 服务，支持多个平台的热榜数据获取，支持本地部署，pm2部署、docker部署，支持数据存储，支持查询历史热点数据。
 
 *   [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) - An MCP service designed for deploying HTML content to EdgeOne Pages and obtaining an accessible public URL.
 
