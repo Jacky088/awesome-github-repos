@@ -182,7 +182,7 @@
 
 *   [songtianlun/umami-dashboard](https://github.com/songtianlun/umami-dashboard) - A modern Umami analytics dashboard to show last 24 hours.
 
-*   [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) - 一个面向个人和团队的、高度可扩展的私有云盘解决方案，支持 AI 语义搜索。
+*   [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) - A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search.
 
 *   [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) - WebSearchMCP using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, Github, Juejin and CSDN.
 
