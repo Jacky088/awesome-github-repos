@@ -163,7 +163,7 @@
 
 *   [xuemian168/kuno](https://github.com/xuemian168/kuno) - KUNO CMS A full-stack blog application with Go backend and Next.js frontend, containerized with Docker for easy deployment.一个i18n的CMS系统
 
-*   [HelTi/daily-hot-api](https://github.com/HelTi/daily-hot-api) - 🔥 一个基于 NestJS 的每日热榜聚合 API 服务，支持多个平台的热榜数据获取，支持本地部署，pm2部署、docker部署，支持数据存储，支持查询历史热点数据。
+*   [HelTi/daily-hot-api](https://github.com/HelTi/daily-hot-api) - 🔥 一个基于 NestJS 的每日热榜聚合 API 服务，支持多个平台的热榜数据获取，支持手动部署，pm2部署、docker部署，支持数据存储，支持查询历史热点数据。
 
 *   [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) - An MCP service designed for deploying HTML content to EdgeOne Pages and obtaining an accessible public URL.
 
@@ -437,7 +437,7 @@
 
 *   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 
-*   [zywe03/realm-xwPF](https://github.com/zywe03/realm-xwPF) - 一个开箱即用、轻量可靠、灵活可控的 realm 网络转发全功能管理可视化脚本,内含丰富的中转功能,构建完整生态
+*   [zywe03/realm-xwPF](https://github.com/zywe03/realm-xwPF) - 一个开箱即用、轻量可靠、灵活可控的 realm 网络转发全功能管理可视化脚本,链路检测，端口流量狗纯脚本搭建中转服务器
 
 *   [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 
