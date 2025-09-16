@@ -401,7 +401,7 @@
 
 *   [cmliu/webssh](https://github.com/cmliu/webssh) - WebSSH 是一个基于 Web 的轻量级 SSH 管理工具，方便地在浏览器中进行安全的远程服务器管理。
 
-*   [MedicNex/file2md](https://github.com/MedicNex/file2md) - File2MD: A Micro File Parser Service. Friendly to LLM.
+*   [Pathwit/file2md](https://github.com/Pathwit/file2md) - File2MD: A Micro File Parser Service. Friendly to LLM.
 
 *   [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) - bilibili 硬核会员 AI 自动答题脚本，直接调用 B 站 API，非 OCR 实现
 
