@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Svelte](#svelte)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [PHP](#php)
@@ -15,7 +16,6 @@
 *   [Vue](#vue)
 *   [Dockerfile](#dockerfile)
 *   [Java](#java)
-*   [Svelte](#svelte)
 *   [Vim Snippet](#vim-snippet)
 *   [Astro](#astro)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -30,6 +30,12 @@
 *   [Swift](#swift)
 *   [Ruby](#ruby)
 *   [JSON](#json)
+
+## Svelte
+
+*   [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) - 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI 能力，结合每种资产的特性和当前环境，提供适宜的财务建议。
+
+*   [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local\* and free forever.
 
 ## miscellaneous
 
@@ -545,8 +551,6 @@
 
 *   [imsyy/DailyHot](https://github.com/imsyy/DailyHot) - DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi
 
-*   [WizisCool/OneSub](https://github.com/WizisCool/OneSub) - OneSub 是一款轻量化的订阅管理工具，NodeJs+Vue3+SQLite轻量化部署。通过支持多协议、多节点管理及自动同步订阅链接
-
 *   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 
 *   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux服务器WEB终端面板(webSSH\&webSFTP). 更新通知TG：
@@ -602,10 +606,6 @@
 *   [doubleDimple/oci-start](https://github.com/doubleDimple/oci-start) -
 
 *   [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - Make a better survey system.
-
-## Svelte
-
-*   [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local\* and free forever.
 
 ## Vim Snippet
 
