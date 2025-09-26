@@ -443,7 +443,7 @@
 
 *   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 
-*   [zywe03/realm-xwPF](https://github.com/zywe03/realm-xwPF) - 一个开箱即用、轻量可靠、灵活可控的 realm 网络转发全功能管理可视化脚本,链路检测，端口流量狗纯脚本搭建中转服务器
+*   [zywe03/realm-xwPF](https://github.com/zywe03/realm-xwPF) - 纯脚本搭建中转服务器,构建网络转发服务.Creating a script-based relay server for network forwarding.
 
 *   [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 
@@ -504,6 +504,8 @@
 *   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
 
 *   [iWangJiaxiang/Homepage-Creators](https://github.com/iWangJiaxiang/Homepage-Creators) - Homepage Creators 是一款适用于 Zola 的个人主页主题，风格接近 Apple，美观大气。
+
+*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
 *   [ohotto/nzcfg](https://github.com/ohotto/nzcfg) - 哪吒监控公开备注和流量监控配置代码生成器
 
@@ -622,8 +624,6 @@
 ## Rust
 
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
 *   [zhboner/realm](https://github.com/zhboner/realm) - A network relay tool
 
