@@ -445,7 +445,7 @@
 
 *   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 
-*   [zywe03/realm-xwPF](https://github.com/zywe03/realm-xwPF) - 纯脚本快速搭建中转服务器,一键构建网络转发服务.Quickly set up a relay server with pure scripting—build network forwarding services with a single click.
+*   [zywe03/realm-xwPF](https://github.com/zywe03/realm-xwPF) - Realm 全功能一键中转脚本，终端可视化界面构建网络转发服务.Realm: All-in-one one-click relay script, building network forwarding services with a terminal visual interface.
 
 *   [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 
