@@ -358,7 +358,7 @@
 
 *   [star7th/jisuxiang](https://github.com/star7th/jisuxiang) - JiSuXiang  is a high-quality, visually appealing online developer toolbox that provides a comprehensive collection of essential development tools for programmers
 
-*   [eoao/cloud-mail](https://github.com/eoao/cloud-mail) - cloudflare email 邮箱  临时邮箱 邮件发送 mail
+*   [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - cloudflare email 邮箱  临时邮箱 邮件发送 mail
 
 *   [tonngw/awesome-github-repos](https://github.com/tonngw/awesome-github-repos) - 🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.
 
@@ -554,7 +554,7 @@
 
 *   [chunkburst/ddns-worker](https://github.com/chunkburst/ddns-worker) - 一个简易的DDNS实现~
 
-*   [suqicloud/wp-ai-chat](https://github.com/suqicloud/wp-ai-chat) - WordPress ai助手插件 支持deepseek 豆包 通义千问 openai Kimi 千帆等模型和智能体应用。
+*   [wujiit/wp-ai-chat](https://github.com/wujiit/wp-ai-chat) - WordPress ai助手插件 支持deepseek 豆包 通义千问 openai Kimi 千帆等模型和智能体应用。
 
 *   [netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr) - 彩虹聚合DNS管理系统
 
