@@ -36,7 +36,7 @@
 
 ## TypeScript
 
-*   [Jimleerx/miaomiaowu](https://github.com/Jimleerx/miaomiaowu) - clash配置订阅管理工具，支持从探针 (nezha、komari、dstatus) 获取流量使用情况生成clash订阅的流量信息
+*   [Jimleerx/miaomiaowu](https://github.com/Jimleerx/miaomiaowu) - clash配置订阅管理工具，支持节点管理、生成订阅、导入外部订阅节点等
 
 *   [lhccong/fish-island-frontend](https://github.com/lhccong/fish-island-frontend) - 摸鱼岛🎣前端基于 React + Antd 开发的开源🌟摸鱼网
 
@@ -106,7 +106,7 @@
 
 *   [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 
-*   [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Easily find and export your Telegram messages with powerful semantic search, supporting all languages and unsegmented sentences.
+*   [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Search your telegram messages wisely | 明智地搜索您的 Telegram 聊天记录
 
 *   [xjh22222228/nav](https://github.com/xjh22222228/nav) - 发现导航 , 好用强大轻量级导航网站 Discover navigation, easy to use, powerful lightweight navigation website
 
@@ -211,6 +211,8 @@
 *   [xiyewuqiu/new-lmage](https://github.com/xiyewuqiu/new-lmage) -
 
 *   [naxiaoduo/productlatest](https://github.com/naxiaoduo/productlatest) - Create beautiful Product Hunt cards for your products
+
+*   [tgmeng-com/tgmeng-top-search-frontend](https://github.com/tgmeng-com/tgmeng-top-search-frontend) - 糖果梦热搜-前端
 
 *   [sansan0/mao-map](https://github.com/sansan0/mao-map) - 📍 毛主席足迹地图 - 交互式动态展示1893-1976年完整轨迹，时间轴播放+背景音乐+隐藏彩蛋。底部为网友整理的毛泽东年谱，欢迎协作完善数据。星星之火在哪里
 
@@ -741,8 +743,6 @@
 *   [super-tongyao/wall](https://github.com/super-tongyao/wall) - Wall是一款快速分享资源应用程序。俗称“照片墙、视频墙”，基于Vue3 + Spring Boot开发的云共享资源应用系统。
 
 *   [maodeyu180/mao\_nav](https://github.com/maodeyu180/mao_nav) - 极简导航站
-
-*   [tgmeng-com/tgmeng-top-search-frontend](https://github.com/tgmeng-com/tgmeng-top-search-frontend) - 糖果梦热搜-前端
 
 *   [Coooolfan/UniBoard](https://github.com/Coooolfan/UniBoard) - 个人介绍，导航页、笔记、短链、文件分享、探针，私有化部署。Profile、Note、ShortURL、FileSharing、probeMonitor…… with self-host
 
