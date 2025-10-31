@@ -144,7 +144,7 @@
 
 *   [iAmCorey/coreychiu-portfolio-template](https://github.com/iAmCorey/coreychiu-portfolio-template) - portfolio template by corey chiu
 
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
 
 *   [nepsyn/minaplay](https://github.com/nepsyn/minaplay) - MinaPlay 是一个基于 RSS 订阅的追番 / 追剧个人媒体库。
 
