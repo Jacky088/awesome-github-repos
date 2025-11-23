@@ -529,6 +529,8 @@
 
 *   [Jasonzhang2023/group\_assist\_bot](https://github.com/Jasonzhang2023/group_assist_bot) - 让机器人管理你的telegram群组
 
+*   [woniu336/vps-date](https://github.com/woniu336/vps-date) - MJJ订阅追踪
+
 *   [mizhexiaoxiao/WebsiteGuide](https://github.com/mizhexiaoxiao/WebsiteGuide) - 😃企业内部网址导航系统，基于Python+Django+Vue开发，具有网址导航、网址管理、用户管理等功能
 
 *   [djksps1/telegram-monitor](https://github.com/djksps1/telegram-monitor) - telegram群消息监测与定时发送消息和邮件通知
@@ -718,8 +720,6 @@
 *   [DEKVIW/book-nav](https://github.com/DEKVIW/book-nav) - 个人书签导航
 
 *   [ecouus/E-Nav](https://github.com/ecouus/E-Nav) -
-
-*   [woniu336/vps-date](https://github.com/woniu336/vps-date) - MJJ订阅追踪
 
 *   [Lerist/FakeLocation](https://github.com/Lerist/FakeLocation) - Fake Location
 
