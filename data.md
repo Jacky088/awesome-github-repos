@@ -557,7 +557,7 @@
 
 ## Dart
 
-*   [TNT-Likely/BeeCount](https://github.com/TNT-Likely/BeeCount) - 🐝 开源记账App，支持自建服务器同步(Supabase/WebDAV) | Open-source finance tracker with self-hosted sync, cross-platform, privacy-first.
+*   [TNT-Likely/BeeCount](https://github.com/TNT-Likely/BeeCount) - 🐝 开源记账App，支持iCloud/自建服务器同步(Supabase/WebDAV) | Open-source finance tracker with iCloud & self-hosted sync, cross-platform, privacy-first.
 
 *   [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
 
@@ -771,7 +771,7 @@
 
 *   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 
-*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux服务器WEB终端面板(webSSH\&webSFTP). 更新通知TG：
+*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux\&win服务器WEB终端面板(webSSH\&webSFTP). 更新通知TG：
 
 *   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
 
