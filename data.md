@@ -757,7 +757,7 @@
 
 *   [zhtyyx/ioe](https://github.com/zhtyyx/ioe) - One-Stop Retail Inventory Solution
 
-*   [xeefei/X-Panel](https://github.com/xeefei/X-Panel) - 〔X-Panel 面板〕，Xray panel supporting multi-protocol multi-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置】生成功能。
+*   [xeefei/X-Panel](https://github.com/xeefei/X-Panel) - 〔X-Panel 面板〕，Xray panel supporting multi-protocol multi-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置 & 一键部署中转】生成功能。
 
 *   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
 
