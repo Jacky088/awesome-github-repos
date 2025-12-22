@@ -282,9 +282,9 @@
 
 ## JavaScript
 
-*   [doocs/cose](https://github.com/doocs/cose) -
+*   [doocs/cose](https://github.com/doocs/cose) - 😃 md 编辑器使用的浏览器扩展，支持一键将文章同步到多个内容平台。
 
-*   [ZeroDeng01/sublinkPro](https://github.com/ZeroDeng01/sublinkPro) - 在 sublinkX/sublinkE 基础上二次开发，支持更多协议和高度自定义的开源订阅转换管理工具。支持节点测速、落地IP检测、高级重命名等实用功能。全新的UI，移动端操作友好。
+*   [ZeroDeng01/sublinkPro](https://github.com/ZeroDeng01/sublinkPro) - 在 sublinkX/sublinkE 基础上二次开发，支持更多协议和高度自定义的开源订阅转换管理工具。支持节点测速、落地IP检测、高级重命名等实用功能。全新的UI，移动端操作友好，功能更多!也许订阅管理工具，一个就够!
 
 *   [flyhunterl/flymd](https://github.com/flyhunterl/flymd) - 仅7MB的高性能Markdown笔记工具！内置免费AI模型，智能生成TODO便签、主动提醒推送、本地知识库，AI小说引擎。毫秒级启动，内存占用极低，短小精悍！  A 7MB high-performance Markdown note tool! Built-in free AI model for smart TODO generation, proactive reminders, and collaborative editing. Lightning-fast startup with minimal memory footprint—compact yet powerful!
 
