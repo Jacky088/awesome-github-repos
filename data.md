@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [Shell](#shell)
 *   [TypeScript](#typescript)
+*   [Shell](#shell)
 *   [Rust](#rust)
 *   [Go](#go)
 *   [HTML](#html)
@@ -34,65 +34,9 @@
 *   [JSON](#json)
 *   [PowerShell](#powershell)
 
-## Shell
-
-*   [ciweigg2/foam-introduction](https://github.com/ciweigg2/foam-introduction) - Emby管理系统 代号Foam
-
-*   [anpplex/clouddrive2](https://github.com/anpplex/clouddrive2) - clouddrive2
-
-*   [Aniverse/inexistence](https://github.com/Aniverse/inexistence) - I know nothing, you see nothing.
-
-*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
-
-*   [zywe03/realm-xwPF](https://github.com/zywe03/realm-xwPF) - Realm 全功能一键中转脚本，终端可视化界面构建网络转发服务.Realm: All-in-one one-click relay script, building network forwarding services with a terminal visual interface.
-
-*   [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
-
-*   [gebu8f8/site\_sh](https://github.com/gebu8f8/site_sh) -
-
-*   [BlackSheep-cry/TCP-Optimization-Tool](https://github.com/BlackSheep-cry/TCP-Optimization-Tool) - 一个较为灵活的TCP调优工具，依据iperf3测试结果进行调优
-
-*   [ypq123456789/openlist-manger](https://github.com/ypq123456789/openlist-manger) - 此脚本通过一个清晰的交互式菜单，提供了对 OpenList 的全方位管理功能，从首次安装到后期的服务监控、数据迁移和密码管理，一切尽在掌握。无需记忆复杂的命令，只需运行脚本并根据菜单提示进行选择即可。
-
-*   [trojanpanel/install-script](https://github.com/trojanpanel/install-script) - Trojan Panel installation script / Trojan Panel 一键安装脚本
-
-*   [Aethersailor/Custom\_OpenClash\_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验，配套自动化域名规则提交机器人。
-
-*   [MEILOI/scripts](https://github.com/MEILOI/scripts) -
-
-*   [hostemail/cdn](https://github.com/hostemail/cdn) -
-
-*   [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
-
-*   [LloydAsp/NodeQuality](https://github.com/LloydAsp/NodeQuality) - 在沙箱环境中运行vps测试脚本，并排版测试结果
-
-*   [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
-
-*   [jerry048/Dedicated-Seedbox](https://github.com/jerry048/Dedicated-Seedbox) -
-
-*   [wcwq98/realm](https://github.com/wcwq98/realm) - realm一键转发脚本&可视化的realm转发面板
-
-*   [Jimmyzxk/DNS-Alice-Unlock](https://github.com/Jimmyzxk/DNS-Alice-Unlock) - 流媒体DNS一键分流脚本
-
-*   [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) - serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针|面板 等, 自动化部署、批量保号、进程防杀、消息推送
-
-*   [fscarmen2/Argo-Nezha-Service-Container](https://github.com/fscarmen2/Argo-Nezha-Service-Container) - Nezha server over Argo tunnel 使用 Argo 隧道的哪吒服务端
-
-*   [ypq123456789/TrafficCop](https://github.com/ypq123456789/TrafficCop) - 监控VPS流量使用，到达限制自动限流/关机，保留SSH端口可用
-
-*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
-
-*   [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
-
-*   [wherelse/cloudflare-ddns-script](https://github.com/wherelse/cloudflare-ddns-script) - CloudFlare ddns / 树莓派IPV6 DDNS解决方案
-
-*   [flame1ce/hysteria2-install](https://github.com/flame1ce/hysteria2-install) - Install Hysteria2  一键脚本 安装指南
-
-*   [acha666/cloudflare-ipv4-ipv6-ddns](https://github.com/acha666/cloudflare-ipv4-ipv6-ddns) - Linux下的Cloudflare IPV4\&V6 DDNS脚本（真的能用进来看看吧）
-
-*   [angelsky11/change-oracle-ip](https://github.com/angelsky11/change-oracle-ip) - 一键更换oracle实例被墙ip
-
 ## TypeScript
+
+*   [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 
 *   [iLay1678/i-tools](https://github.com/iLay1678/i-tools) - 爱拓工具箱
 
@@ -231,6 +175,64 @@
 *   [jarvis2f/vortex](https://github.com/jarvis2f/vortex) -
 
 *   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+
+## Shell
+
+*   [ciweigg2/foam-introduction](https://github.com/ciweigg2/foam-introduction) - Emby管理系统 代号Foam
+
+*   [anpplex/clouddrive2](https://github.com/anpplex/clouddrive2) - clouddrive2
+
+*   [Aniverse/inexistence](https://github.com/Aniverse/inexistence) - I know nothing, you see nothing.
+
+*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
+
+*   [zywe03/realm-xwPF](https://github.com/zywe03/realm-xwPF) - Realm 全功能一键中转脚本，终端可视化界面构建网络转发服务.Realm: All-in-one one-click relay script, building network forwarding services with a terminal visual interface.
+
+*   [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
+
+*   [gebu8f8/site\_sh](https://github.com/gebu8f8/site_sh) -
+
+*   [BlackSheep-cry/TCP-Optimization-Tool](https://github.com/BlackSheep-cry/TCP-Optimization-Tool) - 一个较为灵活的TCP调优工具，依据iperf3测试结果进行调优
+
+*   [ypq123456789/openlist-manger](https://github.com/ypq123456789/openlist-manger) - 此脚本通过一个清晰的交互式菜单，提供了对 OpenList 的全方位管理功能，从首次安装到后期的服务监控、数据迁移和密码管理，一切尽在掌握。无需记忆复杂的命令，只需运行脚本并根据菜单提示进行选择即可。
+
+*   [trojanpanel/install-script](https://github.com/trojanpanel/install-script) - Trojan Panel installation script / Trojan Panel 一键安装脚本
+
+*   [Aethersailor/Custom\_OpenClash\_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验，配套增强型后端和自动化域名规则提交机器人。
+
+*   [MEILOI/scripts](https://github.com/MEILOI/scripts) -
+
+*   [hostemail/cdn](https://github.com/hostemail/cdn) -
+
+*   [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
+
+*   [LloydAsp/NodeQuality](https://github.com/LloydAsp/NodeQuality) - 在沙箱环境中运行vps测试脚本，并排版测试结果
+
+*   [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
+
+*   [jerry048/Dedicated-Seedbox](https://github.com/jerry048/Dedicated-Seedbox) -
+
+*   [wcwq98/realm](https://github.com/wcwq98/realm) - realm一键转发脚本&可视化的realm转发面板
+
+*   [Jimmyzxk/DNS-Alice-Unlock](https://github.com/Jimmyzxk/DNS-Alice-Unlock) - 流媒体DNS一键分流脚本
+
+*   [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) - serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针|面板 等, 自动化部署、批量保号、进程防杀、消息推送
+
+*   [fscarmen2/Argo-Nezha-Service-Container](https://github.com/fscarmen2/Argo-Nezha-Service-Container) - Nezha server over Argo tunnel 使用 Argo 隧道的哪吒服务端
+
+*   [ypq123456789/TrafficCop](https://github.com/ypq123456789/TrafficCop) - 监控VPS流量使用，到达限制自动限流/关机，保留SSH端口可用
+
+*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
+
+*   [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
+
+*   [wherelse/cloudflare-ddns-script](https://github.com/wherelse/cloudflare-ddns-script) - CloudFlare ddns / 树莓派IPV6 DDNS解决方案
+
+*   [flame1ce/hysteria2-install](https://github.com/flame1ce/hysteria2-install) - Install Hysteria2  一键脚本 安装指南
+
+*   [acha666/cloudflare-ipv4-ipv6-ddns](https://github.com/acha666/cloudflare-ipv4-ipv6-ddns) - Linux下的Cloudflare IPV4\&V6 DDNS脚本（真的能用进来看看吧）
+
+*   [angelsky11/change-oracle-ip](https://github.com/angelsky11/change-oracle-ip) - 一键更换oracle实例被墙ip
 
 ## Rust
 
@@ -588,7 +590,7 @@
 
 *   [cnwikee/CheckTMDB](https://github.com/cnwikee/CheckTMDB) - 每日自动更新TMDB，themoviedb 国内可正常连接IP，解决DNS污染，供tinyMediaManager(TMM削刮器)、kodi削刮等正常削刮影片信息。
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，让算法为你服务，用AI理解热点。简单的舆情监控分析 - 多平台热点聚合+支持 RSS 订阅+基于 MCP 的AI分析。智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知。支持Docker部署，支持数据远程云存储，让数据掌握在用户自己的手中⭐ 自媒体小助手
 
 *   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 
@@ -683,8 +685,6 @@
 *   [shenxianmq/Auto\_Symlink](https://github.com/shenxianmq/Auto_Symlink) - 实时监控文件夹，创建与更新软链接/strm文件，自动复制与更新元数据，清空无效文件夹，清空无效软链接
 
 *   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-*   [jayli/memos-new-v0.20.0](https://github.com/jayli/memos-new-v0.20.0) - 解决 content too long 的问题
 
 ## Rich Text Format
 
