@@ -36,6 +36,8 @@
 
 ## TypeScript
 
+*   [INKCR0W/sparkle](https://github.com/INKCR0W/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
+
 *   [Amery2010/peinture](https://github.com/Amery2010/peinture) - A general-purpose AI image generation framework that supports Hugging Face, Gitee, Model Scope, and more.
 
 *   [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
@@ -283,8 +285,6 @@
 *   [wherelse/cloudflare-ddns-script](https://github.com/wherelse/cloudflare-ddns-script) - CloudFlare ddns / 树莓派IPV6 DDNS解决方案
 
 *   [flame1ce/hysteria2-install](https://github.com/flame1ce/hysteria2-install) - Install Hysteria2  一键脚本 安装指南
-
-*   [acha666/cloudflare-ipv4-ipv6-ddns](https://github.com/acha666/cloudflare-ipv4-ipv6-ddns) - Linux下的Cloudflare IPV4\&V6 DDNS脚本（真的能用进来看看吧）
 
 *   [angelsky11/change-oracle-ip](https://github.com/angelsky11/change-oracle-ip) - 一键更换oracle实例被墙ip
 
@@ -626,6 +626,8 @@
 
 *   [mizhexiaoxiao/WebsiteGuide](https://github.com/mizhexiaoxiao/WebsiteGuide) - 😃企业内部网址导航系统，基于Python+Django+Vue开发，具有网址导航、网址管理、用户管理等功能
 
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
 *   [djksps1/telegram-monitor](https://github.com/djksps1/telegram-monitor) - telegram群消息监测与定时发送消息和邮件通知
 
 *   [seagullz4/hysteria2](https://github.com/seagullz4/hysteria2) - hysteria2一键安装精简版/hy2一键安装/hysteria2 install/نصب با یک کلیک hysteria2
@@ -809,8 +811,6 @@
 *   [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) - 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI 能力，结合每种资产的特性和当前环境，提供适宜的财务建议。
 
 *   [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local\* and free forever.
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## Dockerfile
 
