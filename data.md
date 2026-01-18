@@ -114,7 +114,7 @@
 
 *   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 
-*   [NodePassProject/NodePassDash](https://github.com/NodePassProject/NodePassDash) - 一个现代化的NodePass管理界面
+*   [NodePassProject/NodePassDash](https://github.com/NodePassProject/NodePassDash) - A modern web dashboard for managing NodePass
 
 *   [beilunyang/moepush](https://github.com/beilunyang/moepush) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨
 
@@ -422,7 +422,7 @@
 
 *   [doocs/cose](https://github.com/doocs/cose) - 😃 md 编辑器使用的浏览器扩展，支持一键将文章同步到多个内容平台。
 
-*   [flyhunterl/flymd](https://github.com/flyhunterl/flymd) - 仅7MB的高性能Markdown笔记工具！内置免费AI模型，智能生成TODO便签、主动提醒推送、本地知识库，AI小说引擎。毫秒级启动，内存占用极低，短小精悍！  A 7MB high-performance Markdown note tool! Built-in free AI model for smart TODO generation, proactive reminders, and collaborative editing. Lightning-fast startup with minimal memory footprint—compact yet powerful!
+*   [flyhunterl/flymd](https://github.com/flyhunterl/flymd) - 高性能Markdown笔记工具！免费AI，智能便签、TODO推送、本地知识库、AI小说引擎。PDF解析、自动语音笔记、录音转文本。毫秒级启动High-performance Markdown note tool! Free AI, smart notes, TODO reminders, local knowledge base, AI novel engine. PDF parsing, auto voice notes, audio-to-text. Millisecond startup.
 
 *   [Limkon/FileManger](https://github.com/Limkon/FileManger) -
 
@@ -510,7 +510,7 @@
 
 *   [PublicAffairs/openai-gemini](https://github.com/PublicAffairs/openai-gemini) - Gemini ➜ OpenAI API proxy. Serverless!
 
-*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - 🌩️ Serverless 自托管的文件管理与文本分享工具，支持多存储聚合。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、文件预览、挂载WebDAV 服务。支持 Cloudflare Workers 或 Docker 部署。
+*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - 🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、文件预览、挂载WebDAV 服务。支持 Cloudflare Workers 或 Docker 部署。
 
 *   [6Kmfi6HP/EDtunnel](https://github.com/6Kmfi6HP/EDtunnel) - EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。  EDtunnel is a proxy tool based on Cloudflare Workers and Pages, supporting multiple protocols and configuration options.
 
