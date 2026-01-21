@@ -188,7 +188,7 @@
 
 *   [ryanuo/blazeB2](https://github.com/ryanuo/blazeB2) - 📷An image bed tool with CDN acceleration function developed based on backBlazeb2 API & ⚡ cloudflare
 
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | A minimalist music player
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，评论区，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / OpenSubsonic 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, song downloads, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
 
 *   [catcat-blog/NetMirror](https://github.com/catcat-blog/NetMirror) - Another Looking-glass Server
 
