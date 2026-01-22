@@ -188,15 +188,13 @@
 
 *   [ryanuo/blazeB2](https://github.com/ryanuo/blazeB2) - 📷An image bed tool with CDN acceleration function developed based on backBlazeb2 API & ⚡ cloudflare
 
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，评论区，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / OpenSubsonic 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, song downloads, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，评论区，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / Emby 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, song downloads, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
 
 *   [catcat-blog/NetMirror](https://github.com/catcat-blog/NetMirror) - Another Looking-glass Server
 
 *   [super-tongyao/wall](https://github.com/super-tongyao/wall) - Wall是一款快速分享资源应用程序。俗称“照片墙、视频墙”，基于Vue3 + Spring Boot开发的云共享资源应用系统。
 
 *   [maodeyu180/mao\_nav](https://github.com/maodeyu180/mao_nav) - 极简导航站
-
-*   [tgmeng-com/tgmeng-top-search-frontend](https://github.com/tgmeng-com/tgmeng-top-search-frontend) - 🔥 糖果梦热榜 - 前端 实时聚合全网热榜 | 支持数百+数据源 | 分钟级更新 | RSS 订阅 | 历史热点追踪 | 突发热点查询 | 多平台推送（钉钉/飞书/企微/Telegram/NTFY/GOTIFY） | 摸鱼模式（Excel、VsCode） | 一键部署（Vercel、Netlify、Docker）前端页面：https://tgmeng.com
 
 *   [Coooolfan/UniBoard](https://github.com/Coooolfan/UniBoard) - 个人介绍，导航页、笔记、短链、文件分享、探针，私有化部署。Profile、Note、ShortURL、FileSharing、probeMonitor…… with self-host
 
@@ -228,7 +226,7 @@
 
 *   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
 
-*   [roimdev/roim-picx](https://github.com/roimdev/roim-picx) - free image service based on cloudflare Pages & R2.基于CloudFlare Pages和R2实现的免费图床。
+*   [roimdev/roim-picx](https://github.com/roimdev/roim-picx) - A free image hosting application based on Cloudflare's Worker, R2, Pages, and D1 architectures.一款基于 Cloudflare 的 Worker、R2、Pages、D1 实现的免费图床应用
 
 *   [gooaclok819/sublinkX](https://github.com/gooaclok819/sublinkX) - 开源节点订阅转换生成管理系统
 
@@ -386,7 +384,7 @@
 
 *   [zhheo/HeoWeb](https://github.com/zhheo/HeoWeb) - 纯静态多业务展示的个人主页主题
 
-*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
+*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Vercel/Heroku/SCF/FG/FC/CFC/PHP web hosting/VPS.
 
 *   [zhtyyx/ioe](https://github.com/zhtyyx/ioe) - One-Stop Retail Inventory Solution
 
@@ -566,6 +564,8 @@
 
 *   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)
 
+*   [metowolf/Meting](https://github.com/metowolf/Meting) - :cake: Wow, such a powerful music API framework
+
 ## Python
 
 *   [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.
@@ -726,8 +726,6 @@
 
 *   [Fazil-team/Fazil](https://github.com/Fazil-team/Fazil) - Fazil 是一个轻量级、高效且安全的网盘系统，支持多用户访问，适合个人或小型团队的文件管理需求。
 
-*   [tgmeng-com/tgmeng-api](https://github.com/tgmeng-com/tgmeng-api) - 🔥 糖果梦热榜 - 后端 实时聚合全网热榜 | 支持数百+数据源 | 分钟级更新 | RSS 订阅 | 历史热点追踪 | 突发热点查询 | 多平台推送（钉钉/飞书/企微/Telegram/NTFY/GOTIFY） | 摸鱼模式（Excel、VsCode） | 一键部署（Vercel、Netlify、Docker）前端页面：https://tgmeng.com
-
 *   [NeegixOpensourceGroup/nebula-framework](https://github.com/NeegixOpensourceGroup/nebula-framework) - A DDD-ARCHITECTURE FRAMEWORK WITH JAVA
 
 *   [Idea-flow/novel-download](https://github.com/Idea-flow/novel-download) - 在线小说下载网站 | 小说下载工具 | 免费下载小说 |网络小说 | 免费下载
@@ -781,6 +779,8 @@
 *   [Nei-Xin/random-pic-api](https://github.com/Nei-Xin/random-pic-api) - 搭建一个简单的随机图片API，支持Docker部署
 
 *   [cedar2025/Xboard](https://github.com/cedar2025/Xboard) - High-performance panel based on V2board secondary development supporting new protocols and new features
+
+*   [injahow/meting-api](https://github.com/injahow/meting-api) - Meting API for APlayer
 
 ## Kotlin
 
