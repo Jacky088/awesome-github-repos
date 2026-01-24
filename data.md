@@ -758,7 +758,7 @@
 
 *   [Licoy/wordpress-theme-puock](https://github.com/Licoy/wordpress-theme-puock) - :art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh loading, etc.
 
-*   [helloxz/imgurl](https://github.com/helloxz/imgurl) - ImgURL是一个简单、纯粹的图床程序，让个人图床多一个选择。
+*   [helloxz/imgurl](https://github.com/helloxz/imgurl) - 此项目停止维护，如需私有部署图床服务，可查看我们的Zpic方案：https://www.zpic.pro
 
 *   [xiaoyaohanyue/lsky\_plugin\_wp](https://github.com/xiaoyaohanyue/lsky_plugin_wp) - lsky pro在wordpress中的插件，支持全局替换媒体库的图片上传到图床，并且可以一键上传原本媒体库中的图片到图床
 
