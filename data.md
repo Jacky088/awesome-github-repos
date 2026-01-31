@@ -3,7 +3,6 @@
 ## Table of Contents
 
 *   [Python](#python)
-*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [Shell](#shell)
@@ -11,6 +10,7 @@
 *   [Go](#go)
 *   [HTML](#html)
 *   [JavaScript](#javascript)
+*   [miscellaneous](#miscellaneous)
 *   [Rich Text Format](#rich-text-format)
 *   [C#](#c)
 *   [Java](#java)
@@ -117,50 +117,6 @@
 *   [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - 🌐自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
 
 *   [hksanduo/cloudflare-api-v4-and-v6-ddns](https://github.com/hksanduo/cloudflare-api-v4-and-v6-ddns) - cloudflare ipv4 and ipv6 ddns
-
-## miscellaneous
-
-*   [horsenmail/smart\_cfworker](https://github.com/horsenmail/smart_cfworker) - SMART IPTV CF WORKER 代理，无需VPS服务器。
-
-*   [mursor1985/LIVE](https://github.com/mursor1985/LIVE) -
-
-*   [supzza/clianpro](https://github.com/supzza/clianpro) - 超链PRO 开箱即用的网盘下载/解析解决方案 支持直链解析、不限速下载、批量下载、Aria2加速等功能。完全免费，无需登录，一键获取网盘直链，解决下载限速问题。
-
-*   [judy-gotv/iptv](https://github.com/judy-gotv/iptv) -
-
-*   [JeoJay127/RapidEFI-Tool](https://github.com/JeoJay127/RapidEFI-Tool) - An excellent one-click EFI configuration tool based on OpenCore
-
-*   [CharmingCheung/CharmingPlayer](https://github.com/CharmingCheung/CharmingPlayer) - A cross-platform IPTV player built with Flutter, featuring EPG integration, multiple player engines, and MPD subtitle styling customization.
-
-*   [xachary/t\_music\_player](https://github.com/xachary/t_music_player) - 这是一款完全离线的音乐播放器安卓App，适用于追求纯粹听歌体验的朋友们。如果你有自己的音乐文件库，本应用也许适合你。
-
-*   [fscarmen/warp-sh](https://github.com/fscarmen/warp-sh) - WARP script is move to: https://gitlab.com/fscarmen/warp
-
-*   [TopChina/proxy-list](https://github.com/TopChina/proxy-list) - Free proxy list HTTP, Socks4 and Socks5 open proxy lists
-
-*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-
-*   [ymyuuu/IPDB](https://github.com/ymyuuu/IPDB) - Cloudflare反代优选IP库
-
-*   [CHNJohnHK/Material-You-App-Repository](https://github.com/CHNJohnHK/Material-You-App-Repository) - A simple but intact and frequent-updated Material You App collection project creating with love and persistence.
-
-*   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
-
-*   [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) - Material 3 Expressive 风格的Android/Android TV IPTV播放器，内建Media3,IJKplayer和 VLC。A Material 3 Expressive style Android/Android TV IPTV player with built-in Media3, IJKplayer and VLC.
-
-*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-
-*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-
-*   [ngo5/IPTV](https://github.com/ngo5/IPTV) - IPV4/IPV6 TVBOX 电视直播点播源收集
-
-*   [YuHuanTin/IDM\_Cracker](https://github.com/YuHuanTin/IDM_Cracker) -
-
-*   [bigtree945/Official\_VPS](https://github.com/bigtree945/Official_VPS) - 官方的VPS TG 群组和频道
-
-*   [shenxianmq/Auto\_Symlink](https://github.com/shenxianmq/Auto_Symlink) - 实时监控文件夹，创建与更新软链接/strm文件，自动复制与更新元数据，清空无效文件夹，清空无效软链接
-
-*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
 
 ## TypeScript
 
@@ -691,6 +647,50 @@
 *   [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
 
 *   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)
+
+*   [metowolf/Meting](https://github.com/metowolf/Meting) - :cake: Wow, such a powerful music API framework
+
+## miscellaneous
+
+*   [mursor1985/LIVE](https://github.com/mursor1985/LIVE) -
+
+*   [supzza/clianpro](https://github.com/supzza/clianpro) - 超链PRO 开箱即用的网盘下载/解析解决方案 支持直链解析、不限速下载、批量下载、Aria2加速等功能。完全免费，无需登录，一键获取网盘直链，解决下载限速问题。
+
+*   [judy-gotv/iptv](https://github.com/judy-gotv/iptv) -
+
+*   [JeoJay127/RapidEFI-Tool](https://github.com/JeoJay127/RapidEFI-Tool) - An excellent one-click EFI configuration tool based on OpenCore
+
+*   [CharmingCheung/CharmingPlayer](https://github.com/CharmingCheung/CharmingPlayer) - A cross-platform IPTV player built with Flutter, featuring EPG integration, multiple player engines, and MPD subtitle styling customization.
+
+*   [xachary/t\_music\_player](https://github.com/xachary/t_music_player) - 这是一款完全离线的音乐播放器安卓App，适用于追求纯粹听歌体验的朋友们。如果你有自己的音乐文件库，本应用也许适合你。
+
+*   [fscarmen/warp-sh](https://github.com/fscarmen/warp-sh) - WARP script is move to: https://gitlab.com/fscarmen/warp
+
+*   [TopChina/proxy-list](https://github.com/TopChina/proxy-list) - Free proxy list HTTP, Socks4 and Socks5 open proxy lists
+
+*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
+
+*   [ymyuuu/IPDB](https://github.com/ymyuuu/IPDB) - Cloudflare反代优选IP库
+
+*   [CHNJohnHK/Material-You-App-Repository](https://github.com/CHNJohnHK/Material-You-App-Repository) - A simple but intact and frequent-updated Material You App collection project creating with love and persistence.
+
+*   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
+
+*   [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) - Material 3 Expressive 风格的Android/Android TV IPTV播放器，内建Media3,IJKplayer和 VLC。A Material 3 Expressive style Android/Android TV IPTV player with built-in Media3, IJKplayer and VLC.
+
+*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+
+*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+
+*   [ngo5/IPTV](https://github.com/ngo5/IPTV) - IPV4/IPV6 TVBOX 电视直播点播源收集
+
+*   [YuHuanTin/IDM\_Cracker](https://github.com/YuHuanTin/IDM_Cracker) -
+
+*   [bigtree945/Official\_VPS](https://github.com/bigtree945/Official_VPS) - 官方的VPS TG 群组和频道
+
+*   [shenxianmq/Auto\_Symlink](https://github.com/shenxianmq/Auto_Symlink) - 实时监控文件夹，创建与更新软链接/strm文件，自动复制与更新元数据，清空无效文件夹，清空无效软链接
+
+*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
 
 ## Rich Text Format
 
