@@ -144,7 +144,7 @@
 
 *   [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 
-*   [Jimleerx/miaomiaowu](https://github.com/Jimleerx/miaomiaowu) - Clash配置订阅管理工具，支持节点管理、生成订阅、导入外部订阅节点等
+*   [iluobei/miaomiaowu](https://github.com/iluobei/miaomiaowu) - Clash配置订阅管理工具，支持节点管理、生成订阅、导入外部订阅节点等
 
 *   [lhccong/fish-island-frontend](https://github.com/lhccong/fish-island-frontend) - 摸鱼岛🎣前端基于 React + Antd 开发的开源🌟摸鱼网
 
