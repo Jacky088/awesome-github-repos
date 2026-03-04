@@ -490,8 +490,6 @@
 
 *   [trojanpanel/install-script](https://github.com/trojanpanel/install-script) - Trojan Panel installation script / Trojan Panel 一键安装脚本
 
-*   [Aethersailor/Custom\_OpenClash\_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - OpenClash配置示例及订阅转换模板，无需套娃，无 DNS 泄漏
-
 *   [MEILOI/scripts](https://github.com/MEILOI/scripts) -
 
 *   [hostemail/cdn](https://github.com/hostemail/cdn) -
@@ -691,6 +689,8 @@
 *   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 
 *   [ngo5/IPTV](https://github.com/ngo5/IPTV) - IPV4/IPV6 TVBOX 电视直播点播源收集
+
+*   [Aethersailor/Custom\_OpenClash\_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - OpenClash配置示例及订阅转换模板，无需套娃，无 DNS 泄漏
 
 *   [YuHuanTin/IDM\_Cracker](https://github.com/YuHuanTin/IDM_Cracker) -
 
