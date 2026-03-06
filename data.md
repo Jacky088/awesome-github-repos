@@ -254,8 +254,6 @@
 
 *   [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!
 
-*   [ZhjGo/pansou-ui](https://github.com/ZhjGo/pansou-ui) -
-
 *   [xiyewuqiu/new-lmage](https://github.com/xiyewuqiu/new-lmage) -
 
 *   [naxiaoduo/productlatest](https://github.com/naxiaoduo/productlatest) - Create beautiful Product Hunt cards for your products
@@ -895,3 +893,5 @@
 ## PowerShell
 
 *   [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
+
+*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
