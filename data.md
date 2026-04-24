@@ -2,13 +2,14 @@
 
 ## Table of Contents
 
-*   [HTML](#html)
+*   [C#](#c)
+*   [PHP](#php)
 *   [TypeScript](#typescript)
+*   [HTML](#html)
 *   [Python](#python)
 *   [Go](#go)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
-*   [C#](#c)
 *   [Kotlin](#kotlin)
 *   [Svelte](#svelte)
 *   [Vue](#vue)
@@ -16,7 +17,6 @@
 *   [miscellaneous](#miscellaneous)
 *   [Rich Text Format](#rich-text-format)
 *   [Java](#java)
-*   [PHP](#php)
 *   [Dart](#dart)
 *   [Swift](#swift)
 *   [Dockerfile](#dockerfile)
@@ -33,59 +33,69 @@
 *   [PLpgSQL](#plpgsql)
 *   [JSON](#json)
 
-## HTML
+## C\#
 
-*   [zeyu8023/emby-pulse](https://github.com/zeyu8023/emby-pulse) -
+*   [PhoenixNil/XrayUI-dev](https://github.com/PhoenixNil/XrayUI-dev) -
 
-*   [EdNovas/dongguaTV](https://github.com/EdNovas/dongguaTV) -
+*   [aiguoli/SimpleList](https://github.com/aiguoli/SimpleList) - Manage your OneDrive files on WinUI3 powered app
 
-*   [xyTom/cap-worker](https://github.com/xyTom/cap-worker) - Cap backend server build on Cloudflare worker, modern open-source CAPTCHA alternative using SHA-256 proof-of-work.
+*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 
-*   [anhao/TgMessage](https://github.com/anhao/TgMessage) - TG 消息推送机器人, 支持 EdgeOne，Vercel 部署
+*   [zmjack/PortProxyGUI](https://github.com/zmjack/PortProxyGUI) - A manager of netsh interface portproxy which is to evaluate TCP/IP port redirect on windows.
 
-*   [dengxiwang/gotab-personal](https://github.com/dengxiwang/gotab-personal) - GoTab 新标签页是一款免费、简约、美观大气，超高自定义程度的导航/起始页，满足您的各项要求！支持docker一键部署！轻松打造个性化浏览器主页/起始页！适用于私有化部署专属企业内部或者个人的个性导航页/导航网站/主页/欢迎页/NAS导航页！
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+*   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 
-*   [kfcx/HFSpaceDeploy](https://github.com/kfcx/HFSpaceDeploy) - 将你的项目一键部署到huggingface spaces
+*   [SwaggyMacro/LottieViewConvert](https://github.com/SwaggyMacro/LottieViewConvert) - A powerful cross-platform desktop application for converting TGS (Telegram Stickers), Discord animmated stickers and Lottie animations to various formats including GIF, WebP, APNG, MP4, MKV, AVIF, and WebM. Support download telegram sticker from sticker link. 电报、Discord、Lottie动画转换工具，支持 Gif、WebP、APNG、MP4 等常见格式，支持直接下载电报、Discord贴纸包。
 
-*   [vbskycn/FlowMaster](https://github.com/vbskycn/FlowMaster) - FlowMaster流量监控系统
+*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 
-*   [zhheo/HeoWeb](https://github.com/zhheo/HeoWeb) - 纯静态多业务展示的个人主页主题
+*   [SpaceTimee/Sheas-Cealer-Droid](https://github.com/SpaceTimee/Sheas-Cealer-Droid) - Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
 
-*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Vercel/Heroku/SCF/FG/FC/CFC/PHP web hosting/VPS.
+*   [sjtuross/StrmAssistant](https://github.com/sjtuross/StrmAssistant) - Strm Assistant for Emby
 
-*   [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
+*   [cmliu/CFnat-Windows-GUI](https://github.com/cmliu/CFnat-Windows-GUI) - CFnat 为 Windows 用户设计的 GUI 程序界面。
 
-*   [zhtyyx/ioe](https://github.com/zhtyyx/ioe) - One-Stop Retail Inventory Solution
+## PHP
 
-*   [xeefei/X-Panel](https://github.com/xeefei/X-Panel) - 〔X-Panel 面板〕，Xray panel supporting multi-protocol multi-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置 & 一键部署中转】生成功能。
+*   [kuaifan/dootask](https://github.com/kuaifan/dootask) - DooTask是一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。
 
-*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
+*   [JLinMr/PixPro](https://github.com/JLinMr/PixPro) - PixPro 一款个人需求的高效图床，集成了强大的图片压缩功能与优雅的前台。后台管理瀑布流展示和AJAX刷新，能有效降低存储与带宽成本。
 
-*   [iWangJiaxiang/Homepage-Creators](https://github.com/iWangJiaxiang/Homepage-Creators) - Homepage Creators 是一款适用于 Zola 的个人主页主题，风格接近 Apple，美观大气。
+*   [dmmyblog/dmy-link](https://github.com/dmmyblog/dmy-link) - 大绵羊外链跳转插件是专为 WordPress 站点开发的外部链接管理插件。插件的主要功能是拦截文章中的外部链接，在跳转前提醒用户即将离开本站，提升用户安全意识并优化用户体验。
 
-*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
+*   [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 
-*   [ohotto/nzcfg](https://github.com/ohotto/nzcfg) - 哪吒监控公开备注和流量监控配置代码生成器
+*   [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
 
-*   [ecouus/E-Nav](https://github.com/ecouus/E-Nav) -
+*   [Licoy/wordpress-theme-puock](https://github.com/Licoy/wordpress-theme-puock) - :art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh loading, etc.
 
-*   [Lerist/FakeLocation](https://github.com/Lerist/FakeLocation) - Fake Location
+*   [helloxz/imgurl](https://github.com/helloxz/imgurl) - 此项目停止维护，如需私有部署图床服务，可查看我们的Zpic方案：https://www.zpic.pro
 
-*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
+*   [xiaoyaohanyue/lsky\_plugin\_wp](https://github.com/xiaoyaohanyue/lsky_plugin_wp) - lsky pro在wordpress中的插件，支持全局替换媒体库的图片上传到图床，并且可以一键上传原本媒体库中的图片到图床
 
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+*   [chunkburst/ddns-worker](https://github.com/chunkburst/ddns-worker) - 一个简易的DDNS实现~
 
-*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
+*   [wujiit/wp-ai-chat](https://github.com/wujiit/wp-ai-chat) - WordPress ai助手插件 支持deepseek 豆包 通义千问 openai Kimi 千帆等模型和智能体应用。
 
-*   [yuzaimala/URL-detection-jump](https://github.com/yuzaimala/URL-detection-jump) - URL-detection-jump
+*   [netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr) - 彩虹聚合DNS管理系统
 
-*   [missuo/discord-image](https://github.com/missuo/discord-image) - Powerful Discord image hosting, file sharing
+*   [RandallAnjie/EmbyController](https://github.com/RandallAnjie/EmbyController) - 一个Emby管理网站
 
-*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
+*   [owen0o0/WebStack](https://github.com/owen0o0/WebStack) - WordPress 版 WebStack 导航主题 https://nav.iowen.cn
+
+*   [zjkal/linuxdo-card](https://github.com/zjkal/linuxdo-card) - linux.do名片
+
+*   [ZShijun/WaterDrop](https://github.com/ZShijun/WaterDrop) - 一款适合写技术文章的简约typecho博客主题(blog theme)
+
+*   [Nei-Xin/random-pic-api](https://github.com/Nei-Xin/random-pic-api) - 搭建一个简单的随机图片API，支持Docker部署
+
+*   [cedar2025/Xboard](https://github.com/cedar2025/Xboard) - High-performance panel based on V2board secondary development supporting new protocols and new features
 
 ## TypeScript
+
+*   [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 
 *   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 
@@ -227,6 +237,8 @@
 
 *   [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 
+*   [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
+
 *   [chenhb23/lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk) - 蓝奏云网盘、客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。项目用 electron 构建，支持 macos 和 windows。
 
 *   [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
@@ -234,6 +246,58 @@
 *   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 
 *   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
+
+## HTML
+
+*   [zeyu8023/emby-pulse](https://github.com/zeyu8023/emby-pulse) -
+
+*   [EdNovas/dongguaTV](https://github.com/EdNovas/dongguaTV) -
+
+*   [xyTom/cap-worker](https://github.com/xyTom/cap-worker) - Cap backend server build on Cloudflare worker, modern open-source CAPTCHA alternative using SHA-256 proof-of-work.
+
+*   [anhao/TgMessage](https://github.com/anhao/TgMessage) - TG 消息推送机器人, 支持 EdgeOne，Vercel 部署
+
+*   [dengxiwang/gotab-personal](https://github.com/dengxiwang/gotab-personal) - GoTab 新标签页是一款免费、简约、美观大气，超高自定义程度的导航/起始页，满足您的各项要求！支持docker一键部署！轻松打造个性化浏览器主页/起始页！适用于私有化部署专属企业内部或者个人的个性导航页/导航网站/主页/欢迎页/NAS导航页！
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+*   [kfcx/HFSpaceDeploy](https://github.com/kfcx/HFSpaceDeploy) - 将你的项目一键部署到huggingface spaces
+
+*   [vbskycn/FlowMaster](https://github.com/vbskycn/FlowMaster) - FlowMaster流量监控系统
+
+*   [zhheo/HeoWeb](https://github.com/zhheo/HeoWeb) - 纯静态多业务展示的个人主页主题
+
+*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Vercel/Heroku/SCF/FG/FC/CFC/PHP web hosting/VPS.
+
+*   [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
+
+*   [zhtyyx/ioe](https://github.com/zhtyyx/ioe) - One-Stop Retail Inventory Solution
+
+*   [xeefei/X-Panel](https://github.com/xeefei/X-Panel) - 〔X-Panel 面板〕，Xray panel supporting multi-protocol multi-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置 & 一键部署中转】生成功能。
+
+*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
+
+*   [iWangJiaxiang/Homepage-Creators](https://github.com/iWangJiaxiang/Homepage-Creators) - Homepage Creators 是一款适用于 Zola 的个人主页主题，风格接近 Apple，美观大气。
+
+*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
+
+*   [ohotto/nzcfg](https://github.com/ohotto/nzcfg) - 哪吒监控公开备注和流量监控配置代码生成器
+
+*   [ecouus/E-Nav](https://github.com/ecouus/E-Nav) -
+
+*   [Lerist/FakeLocation](https://github.com/Lerist/FakeLocation) - Fake Location
+
+*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
+
+*   [yuzaimala/URL-detection-jump](https://github.com/yuzaimala/URL-detection-jump) - URL-detection-jump
+
+*   [missuo/discord-image](https://github.com/missuo/discord-image) - Powerful Discord image hosting, file sharing
+
+*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 
 ## Python
 
@@ -263,7 +327,7 @@
 
 *   [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models
 
-*   [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
+*   [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
 
 *   [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具
 
@@ -326,8 +390,6 @@
 *   [Nriver/Episode-ReName](https://github.com/Nriver/Episode-ReName) - 电视剧/番剧自动化重命名工具, 一键批量改名. 可配合QBittorrent下载后自动重命名, 方便Emby自动刮削. 支持Windows, Linux, MacOS, Docker 和 群晖套件环境运行
 
 *   [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - 🌐自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
-
-*   [hksanduo/cloudflare-api-v4-and-v6-ddns](https://github.com/hksanduo/cloudflare-api-v4-and-v6-ddns) - cloudflare ipv4 and ipv6 ddns
 
 ## Go
 
@@ -553,28 +615,6 @@
 
 *   [linyuxuanlin/Gallery-Portfolio](https://github.com/linyuxuanlin/Gallery-Portfolio) - 简单的静态瀑布流图片展示站，图片储存在免费的 Cloudflare R2
 
-## C\#
-
-*   [aiguoli/SimpleList](https://github.com/aiguoli/SimpleList) - Manage your OneDrive files on WinUI3 powered app
-
-*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
-
-*   [zmjack/PortProxyGUI](https://github.com/zmjack/PortProxyGUI) - A manager of netsh interface portproxy which is to evaluate TCP/IP port redirect on windows.
-
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-*   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
-
-*   [SwaggyMacro/LottieViewConvert](https://github.com/SwaggyMacro/LottieViewConvert) - A powerful cross-platform desktop application for converting TGS (Telegram Stickers), Discord animmated stickers and Lottie animations to various formats including GIF, WebP, APNG, MP4, MKV, AVIF, and WebM. Support download telegram sticker from sticker link. 电报、Discord、Lottie动画转换工具，支持 Gif、WebP、APNG、MP4 等常见格式，支持直接下载电报、Discord贴纸包。
-
-*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
-
-*   [SpaceTimee/Sheas-Cealer-Droid](https://github.com/SpaceTimee/Sheas-Cealer-Droid) - Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
-
-*   [sjtuross/StrmAssistant](https://github.com/sjtuross/StrmAssistant) - Strm Assistant for Emby
-
-*   [cmliu/CFnat-Windows-GUI](https://github.com/cmliu/CFnat-Windows-GUI) - CFnat 为 Windows 用户设计的 GUI 程序界面。
-
 ## Kotlin
 
 *   [zly2006/zhihu-plus-plus](https://github.com/zly2006/zhihu-plus-plus) - Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验
@@ -643,8 +683,6 @@
 
 *   [roimdev/roim-picx](https://github.com/roimdev/roim-picx) - A free image hosting application based on Cloudflare's Worker, R2, Pages, and D1 architectures.一款基于 Cloudflare 的 Worker、R2、Pages、D1 实现的免费图床应用
 
-*   [gooaclok819/sublinkX](https://github.com/gooaclok819/sublinkX) - 开源节点订阅转换生成管理系统
-
 ## Shell
 
 *   [ciweigg2/foam-introduction](https://github.com/ciweigg2/foam-introduction) - Emby管理系统 代号Foam
@@ -692,10 +730,6 @@
 *   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
 
 *   [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
-
-*   [wherelse/cloudflare-ddns-script](https://github.com/wherelse/cloudflare-ddns-script) - CloudFlare ddns / 树莓派IPV6 DDNS解决方案
-
-*   [flame1ce/hysteria2-install](https://github.com/flame1ce/hysteria2-install) - Install Hysteria2  一键脚本 安装指南
 
 ## miscellaneous
 
@@ -774,40 +808,6 @@
 *   [Eanya-Tonic/CCTV\_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频
 
 *   [doubleDimple/oci-start](https://github.com/doubleDimple/oci-start) -
-
-## PHP
-
-*   [JLinMr/PixPro](https://github.com/JLinMr/PixPro) - PixPro 一款个人需求的高效图床，集成了强大的图片压缩功能与优雅的前台。后台管理瀑布流展示和AJAX刷新，能有效降低存储与带宽成本。
-
-*   [dmmyblog/dmy-link](https://github.com/dmmyblog/dmy-link) - 大绵羊外链跳转插件是专为 WordPress 站点开发的外部链接管理插件。插件的主要功能是拦截文章中的外部链接，在跳转前提醒用户即将离开本站，提升用户安全意识并优化用户体验。
-
-*   [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
-
-*   [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
-
-*   [Licoy/wordpress-theme-puock](https://github.com/Licoy/wordpress-theme-puock) - :art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh loading, etc.
-
-*   [helloxz/imgurl](https://github.com/helloxz/imgurl) - 此项目停止维护，如需私有部署图床服务，可查看我们的Zpic方案：https://www.zpic.pro
-
-*   [xiaoyaohanyue/lsky\_plugin\_wp](https://github.com/xiaoyaohanyue/lsky_plugin_wp) - lsky pro在wordpress中的插件，支持全局替换媒体库的图片上传到图床，并且可以一键上传原本媒体库中的图片到图床
-
-*   [chunkburst/ddns-worker](https://github.com/chunkburst/ddns-worker) - 一个简易的DDNS实现~
-
-*   [wujiit/wp-ai-chat](https://github.com/wujiit/wp-ai-chat) - WordPress ai助手插件 支持deepseek 豆包 通义千问 openai Kimi 千帆等模型和智能体应用。
-
-*   [netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr) - 彩虹聚合DNS管理系统
-
-*   [RandallAnjie/EmbyController](https://github.com/RandallAnjie/EmbyController) - 一个Emby管理网站
-
-*   [owen0o0/WebStack](https://github.com/owen0o0/WebStack) - WordPress 版 WebStack 导航主题 https://nav.iowen.cn
-
-*   [zjkal/linuxdo-card](https://github.com/zjkal/linuxdo-card) - linux.do名片
-
-*   [ZShijun/WaterDrop](https://github.com/ZShijun/WaterDrop) - 一款适合写技术文章的简约typecho博客主题(blog theme)
-
-*   [Nei-Xin/random-pic-api](https://github.com/Nei-Xin/random-pic-api) - 搭建一个简单的随机图片API，支持Docker部署
-
-*   [cedar2025/Xboard](https://github.com/cedar2025/Xboard) - High-performance panel based on V2board secondary development supporting new protocols and new features
 
 ## Dart
 
