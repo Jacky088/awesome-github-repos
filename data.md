@@ -2,7 +2,8 @@
 
 ## Table of Contents
 
-*   [C#](#c)
+*   [C](#c)
+*   [C#](#c-1)
 *   [PHP](#php)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
@@ -23,7 +24,6 @@
 *   [Vim Snippet](#vim-snippet)
 *   [Astro](#astro)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [C](#c-1)
 *   [Smali](#smali)
 *   [Lua](#lua)
 *   [C++](#c-2)
@@ -32,6 +32,18 @@
 *   [Ruby](#ruby)
 *   [PLpgSQL](#plpgsql)
 *   [JSON](#json)
+
+## C
+
+*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+
+*   [xiaojieonly/Ehviewer\_CN\_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行
+
+*   [MikeWang000000/FakeHTTP](https://github.com/MikeWang000000/FakeHTTP) - Obfuscate all your TCP connections into HTTP protocol.
+
+*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
+
+*   [Aleksoid1978/MPC-BE](https://github.com/Aleksoid1978/MPC-BE) - MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.
 
 ## C\#
 
@@ -453,8 +465,6 @@
 
 *   [loognsss/blist](https://github.com/loognsss/blist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
-*   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
-
 ## Rust
 
 *   [Geon97/QuantumTV](https://github.com/Geon97/QuantumTV) - QuantumTV 是基于 Next.js 和 Tauri 的跨平台本地影视聚合播放器。
@@ -842,16 +852,6 @@
 ## Jupyter Notebook
 
 *   [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
-
-## C
-
-*   [xiaojieonly/Ehviewer\_CN\_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行
-
-*   [MikeWang000000/FakeHTTP](https://github.com/MikeWang000000/FakeHTTP) - Obfuscate all your TCP connections into HTTP protocol.
-
-*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
-
-*   [Aleksoid1978/MPC-BE](https://github.com/Aleksoid1978/MPC-BE) - MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.
 
 ## Smali
 
