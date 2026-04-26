@@ -465,6 +465,8 @@
 
 *   [loognsss/blist](https://github.com/loognsss/blist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
+*   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
+
 ## Rust
 
 *   [Geon97/QuantumTV](https://github.com/Geon97/QuantumTV) - QuantumTV 是基于 Next.js 和 Tauri 的跨平台本地影视聚合播放器。
@@ -586,8 +588,6 @@
 *   [xizeyoupan/Meting-API](https://github.com/xizeyoupan/Meting-API) - 🐳 Meting API 的容器化与部署
 
 *   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
-
-*   [gm-cx/3x-ui-cn](https://github.com/gm-cx/3x-ui-cn) - 〔3X-UI〕中文优化版，Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vless & Vmess & Trojan & ShadowSocks & Wireguard)，基于原版3x-ui进行优化修改。
 
 *   [sxxsoo/glados\_worker](https://github.com/sxxsoo/glados_worker) - 建立在worker的glados自动签到，成功将发送通知到Telegram
 
