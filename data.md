@@ -11,9 +11,9 @@
 *   [Python](#python)
 *   [Go](#go)
 *   [Rust](#rust)
-*   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
 *   [Svelte](#svelte)
+*   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [Shell](#shell)
 *   [Rich Text Format](#rich-text-format)
@@ -42,6 +42,8 @@
 *   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 
 *   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) - CC GUI 客户端（专为开发者打造的VibeCoding平台）
+
+*   [mskatoni/ni-mail](https://github.com/mskatoni/ni-mail) - 极简 Cloudflare Worker，接收私人域名邮件并提供 HTTP API 读取
 
 *   [GystuG/LiteNote](https://github.com/GystuG/LiteNote) - Neo-Brutalism 风的AI记账应用，支持语音、拍照、AI 对话记账和支付通知自动记账
 
@@ -529,9 +531,29 @@
 
 *   [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Jellyfin client for Linux
 
-## JavaScript
+## Kotlin
 
-*   [mskatoni/ni-mail](https://github.com/mskatoni/ni-mail) - 极简 Cloudflare Worker，接收私人域名邮件并提供 HTTP API 读取
+*   [zly2006/zhihu-plus-plus](https://github.com/zly2006/zhihu-plus-plus) - Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验
+
+*   [horsemail/yourtv](https://github.com/horsemail/yourtv) - 安卓电视直播APK：IPTV/網頁視頻支持X5，可自定義源(支持webview://格式)，IPTV支持畫中畫和熄屏播放。 Android TV Live APK: IPTV/web video supports X5, customizable sources (support webview:// format), IPTV supports picture-in-picture and off-screen playback.
+
+*   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+
+*   [Frost819/bv](https://github.com/Frost819/bv) - 哔哩哔哩 的第三方 Android TV 应用 BV 的个人修改版
+
+*   [aaa1115910/bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.
+
+*   [Sh-Fang/ProxyDaemon](https://github.com/Sh-Fang/ProxyDaemon) - 一个把 Android 设备变成旁路由的App，内置不良林教程中使用的脚本。为什么会有这个App呢？ 因为每次执行脚本都需要开电脑，我觉得太麻烦了。
+
+## Svelte
+
+*   [wonfen/huawei-GTM-DNS](https://github.com/wonfen/huawei-GTM-DNS) - 华为云 DNS 全局流量管理平台 — 秒级健康检测 + 智能故障切换 + 多账户统一管理
+
+*   [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) - 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI 能力，结合每种资产的特性和当前环境，提供适宜的财务建议。
+
+*   [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local\* and free forever.
+
+## JavaScript
 
 *   [wuzf/2fa](https://github.com/wuzf/2fa) - Two Factor Authentication
 
@@ -613,7 +635,7 @@
 
 *   [wangwangit/nav](https://github.com/wangwangit/nav) - 一个优雅的书签收藏与分享平台，基于Cloudflare Workers构建
 
-*   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
+*   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 欢迎参加飞书AI先锋诗活动  https://bytedance.aiforce.cloud/app/app\_4jvnd48x7khm1
 
 *   [layui/layui](https://github.com/layui/layui) - 一套遵循浏览器原生态开发模式的 Web UI 组件库。
 
@@ -666,28 +688,6 @@
 *   [bpking1/embyExternalUrl](https://github.com/bpking1/embyExternalUrl) - some emby/jellyfin scripts
 
 *   [linyuxuanlin/Gallery-Portfolio](https://github.com/linyuxuanlin/Gallery-Portfolio) - 简单的静态瀑布流图片展示站，图片储存在免费的 Cloudflare R2
-
-## Kotlin
-
-*   [zly2006/zhihu-plus-plus](https://github.com/zly2006/zhihu-plus-plus) - Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验
-
-*   [horsemail/yourtv](https://github.com/horsemail/yourtv) - 安卓电视直播APK：IPTV/網頁視頻支持X5，可自定義源(支持webview://格式)，IPTV支持畫中畫和熄屏播放。 Android TV Live APK: IPTV/web video supports X5, customizable sources (support webview:// format), IPTV supports picture-in-picture and off-screen playback.
-
-*   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
-
-*   [Frost819/bv](https://github.com/Frost819/bv) - 哔哩哔哩 的第三方 Android TV 应用 BV 的个人修改版
-
-*   [aaa1115910/bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.
-
-*   [Sh-Fang/ProxyDaemon](https://github.com/Sh-Fang/ProxyDaemon) - 一个把 Android 设备变成旁路由的App，内置不良林教程中使用的脚本。为什么会有这个App呢？ 因为每次执行脚本都需要开电脑，我觉得太麻烦了。
-
-## Svelte
-
-*   [wonfen/huawei-GTM-DNS](https://github.com/wonfen/huawei-GTM-DNS) - 华为云 DNS 全局流量管理平台 — 秒级健康检测 + 智能故障切换 + 多账户统一管理
-
-*   [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) - 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI 能力，结合每种资产的特性和当前环境，提供适宜的财务建议。
-
-*   [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local\* and free forever.
 
 ## Vue
 
