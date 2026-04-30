@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Batchfile](#batchfile)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [C](#c)
@@ -32,6 +33,10 @@
 *   [Ruby](#ruby)
 *   [PLpgSQL](#plpgsql)
 *   [JSON](#json)
+
+## Batchfile
+
+*   [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 
 ## TypeScript
 
@@ -249,7 +254,7 @@
 
 ## C\#
 
-*   [PhoenixNil/XrayUI-dev](https://github.com/PhoenixNil/XrayUI-dev) -
+*   [PhoenixNil/XrayUI-dev](https://github.com/PhoenixNil/XrayUI-dev) - light high-performance GUI for proxy
 
 *   [aiguoli/SimpleList](https://github.com/aiguoli/SimpleList) - Manage your OneDrive files on WinUI3 powered app
 
@@ -304,8 +309,6 @@
 *   [ZShijun/WaterDrop](https://github.com/ZShijun/WaterDrop) - 一款适合写技术文章的简约typecho博客主题(blog theme)
 
 *   [Nei-Xin/random-pic-api](https://github.com/Nei-Xin/random-pic-api) - 搭建一个简单的随机图片API，支持Docker部署
-
-*   [cedar2025/Xboard](https://github.com/cedar2025/Xboard) - High-performance panel based on V2board secondary development supporting new protocols and new features
 
 ## HTML
 
