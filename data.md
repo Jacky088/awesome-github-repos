@@ -162,7 +162,7 @@
 
 *   [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 
-*   [izhichao/whmcs-helper](https://github.com/izhichao/whmcs-helper) - WHMCS 助手 | VPS 补货监控 | 极速下单助手
+*   [izhichao/stockvps-monitor](https://github.com/izhichao/stockvps-monitor) - WHMCS 助手 | VPS 补货监控 | 极速下单助手
 
 *   [KKKKKCAT/CF-IPInfo](https://github.com/KKKKKCAT/CF-IPInfo) - 一個強大、無服務器且免費的 IP 信息儀表板解決方案，由 Cloudflare Workers 驅動，具有用戶友好的界面和多語言支持。
 
@@ -224,7 +224,7 @@
 
 *   [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
 
-*   [PhoenixNil/XrayUI-dev](https://github.com/PhoenixNil/XrayUI-dev) - light high-performance GUI for proxy
+*   [PhoenixNil/XrayUI-dev](https://github.com/PhoenixNil/XrayUI-dev) - light high-performance GUI for network proxy
 
 *   [aiguoli/SimpleList](https://github.com/aiguoli/SimpleList) - Manage your OneDrive files on WinUI3 powered app
 
@@ -234,7 +234,7 @@
 
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
-*   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
+*   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – built for smooth browsing across Windows, macOS, and Linux.
 
 *   [SwaggyMacro/LottieViewConvert](https://github.com/SwaggyMacro/LottieViewConvert) - A powerful cross-platform desktop application for converting TGS (Telegram Stickers), Discord animmated stickers and Lottie animations to various formats including GIF, WebP, APNG, MP4, MKV, AVIF, and WebM. Support download telegram sticker from sticker link. 电报、Discord、Lottie动画转换工具，支持 Gif、WebP、APNG、MP4 等常见格式，支持直接下载电报、Discord贴纸包。
 
