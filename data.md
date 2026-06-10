@@ -14,13 +14,13 @@
 *   [PHP](#php)
 *   [HTML](#html)
 *   [Go](#go)
-*   [Svelte](#svelte)
 *   [Vue](#vue)
 *   [Shell](#shell)
 *   [Rich Text Format](#rich-text-format)
 *   [Java](#java)
 *   [Dart](#dart)
 *   [Swift](#swift)
+*   [Svelte](#svelte)
 *   [Dockerfile](#dockerfile)
 *   [Vim Snippet](#vim-snippet)
 *   [Astro](#astro)
@@ -143,6 +143,8 @@
 *   [mskatoni/ni-mail](https://github.com/mskatoni/ni-mail) - 极简 Cloudflare Worker，接收私人域名邮件并提供 HTTP API 读取
 
 *   [GystuG/LiteNote](https://github.com/GystuG/LiteNote) - Neo-Brutalism 风的AI记账应用，支持语音、拍照、AI 对话记账和支付通知自动记账
+
+*   [wonfen/huawei-GTM-DNS](https://github.com/wonfen/huawei-GTM-DNS) - 华为云 DNS 全局流量管理平台 — 秒级健康检测 + 智能故障切换 + 多账户统一管理
 
 *   [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 
@@ -692,14 +694,6 @@
 
 *   [WJQSERVER-STUDIO/ghproxy](https://github.com/WJQSERVER-STUDIO/ghproxy) - 基于Go的高性能,多功能,可扩展的Github代理加速项目
 
-## Svelte
-
-*   [wonfen/huawei-GTM-DNS](https://github.com/wonfen/huawei-GTM-DNS) - 华为云 DNS 全局流量管理平台 — 秒级健康检测 + 智能故障切换 + 多账户统一管理
-
-*   [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) - 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI 能力，结合每种资产的特性和当前环境，提供适宜的财务建议。
-
-*   [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local\* and free forever.
-
 ## Vue
 
 *   [IT-NuanxinPro/wallpaper-gallery](https://github.com/IT-NuanxinPro/wallpaper-gallery) - 基于 Vue 3 + Vite 7 的高清壁纸展示网站。支持 4K 预览下载、GSAP 动画、响应式设计、暗黑主题。
@@ -839,6 +833,12 @@
 *   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 *   [theJayTea/WritingTools](https://github.com/theJayTea/WritingTools) - The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more.
+
+## Svelte
+
+*   [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) - 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI 能力，结合每种资产的特性和当前环境，提供适宜的财务建议。
+
+*   [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local\* and free forever.
 
 ## Dockerfile
 
