@@ -818,7 +818,7 @@
 
 ## Dart
 
-*   [TNT-Likely/BeeCount](https://github.com/TNT-Likely/BeeCount) - 🐝 跨端开源记账 · 自建云 + iCloud/WebDAV/S3 同步 · AI 记账 · MCP | Open-source bookkeeping across iOS/Android/Web ·         Self-hosted + iCloud/WebDAV/S3 sync · AI capture · MCP-enabled
+*   [TNT-Likely/BeeCount](https://github.com/TNT-Likely/BeeCount) - Local-first bookkeeping for iOS/Android/Web · Self-hosted cloud + iCloud/WebDAV/S3 sync · AI capture · MCP | 本地优先的跨端记账 · 自建云 + iCloud/WebDAV/S3 同步 · AI 记账 · MCP
 
 *   [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
 
