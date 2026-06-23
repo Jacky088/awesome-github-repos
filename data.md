@@ -226,7 +226,7 @@
 
 *   [HelTi/daily-hot-api](https://github.com/HelTi/daily-hot-api) - 🔥 一个基于 NestJS 的每日热点聚合 API 服务，包含多个平台的每日新闻，支持多个平台的热榜数据获取，支持手动部署，pm2部署、docker部署，支持数据存储，支持查询历史热点数据，支持RSS订阅。
 
-*   [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) - An MCP service designed for deploying HTML content to EdgeOne Pages and obtaining an accessible public URL.
+*   [TencentEdgeOne/edgeone-makers-mcp](https://github.com/TencentEdgeOne/edgeone-makers-mcp) - An MCP service designed for deploying HTML content to EdgeOne Pages and obtaining an accessible public URL.
 
 *   [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
 
